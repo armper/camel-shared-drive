@@ -30,7 +30,7 @@ public class FileSystemRoute extends RouteBuilder {
 
 						final GenericFile<SmbFile> body = (GenericFile<SmbFile>) exchange.getIn().getBody();
 
-						final String path = "\\\\FRED\\myshare2\\";
+						final String path = "//FRED/myshare2/";
 						final String filename = body.getFileNameOnly();
 
 						System.out.println(filename);
@@ -48,16 +48,12 @@ public class FileSystemRoute extends RouteBuilder {
 
 							// Execute a command in PowerShell session
 //							PowerShellResponse response = powerShell.executeCommand("Set-Location " + path);
-							PowerShellResponse response = powerShell.configuration(config).executeScript(script+" "+path+filename);
+							PowerShellResponse response = powerShell.configuration(config).executeScript(script, path+filename);
 
 							// Print results
 							System.out.println("executeScript: " + response.getCommandOutput());
 
-							// Execute another command in the same PowerShell session
-//							response = powerShell.executeCommand("Get-ItemProperty " + filename);
-
-							// Print results
-							System.out.println("ItemProperty:" + response.getCommandOutput());
+							
 						} catch (PowerShellNotAvailableException ex) {
 							// Handle error when PowerShell is not available in the system
 							// Maybe try in another way?

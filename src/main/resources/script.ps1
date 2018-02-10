@@ -1,6 +1,3 @@
-Push-Location $MyInvocation.MyCommand.Path
-[Environment]::CurrentDirectory = $PWD
-
 $application = New-Object -ComObject word.application
 $application.Visible = $false
 
@@ -25,8 +22,6 @@ foreach($property in $properties)
 
 }
 
+Write-Host "end report";
+
 $application.quit()
-
-
-Pop-Location
-[Environment]::CurrentDirectory = $PWD
