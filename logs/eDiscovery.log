@@ -1,0 +1,1576 @@
+[INFO ] 2018-02-11 08:59:59.384 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 118420 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-11 08:59:59.384 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-11 09:00:03.411 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:00:03.711 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 4.68 seconds (JVM running for 7.016)
+[INFO ] 2018-02-11 09:00:28.726 [rebel-change-detector-thread] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:00:29.675 [camel-reloader-camel-1] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:00:30.727 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:00:30.728 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:00:30.728 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:00:30.728 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:00:30.728 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:00:30.728 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:00:30.734 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:00:30.737 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:00:30.742 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:00:30.742 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:00:30.742 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:00:30.742 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:00:30.748 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:00:30.748 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:00:30.748 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:00:30.748 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:00:30.748 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:00:30.752 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:00:30.760 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:00:30.761 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:00:30.761 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:00:30.761 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:00:30.761 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:00:30.761 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:00:30.767 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:00:30.768 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:00:30.768 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:00:30.771 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:00:30.776 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:00:30.776 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:00:30.780 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:00:30.780 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:00:30.780 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:00:30.780 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:00:30.780 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:00:30.780 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:00:30.787 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:00:30.791 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Author: Wesley Ebisuzaki
+[INFO ] 2018-02-11 09:00:30.796 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:00:30.796 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:00:30.796 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: Fri Feb 08 09:33:49 EST 2013
+[INFO ] 2018-02-11 09:00:30.796 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: Sun Dec 31 19:00:00 EST 1600
+[INFO ] 2018-02-11 09:00:30.801 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:00:30.801 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:00:30.801 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:00:30.801 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:00:30.804 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:00:30.810 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:00:30.817 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Title: END-USER LICENSE AGREEMENT FOR MICROSOFT SOFTWARE
+[INFO ] 2018-02-11 09:00:30.817 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Author: deborahd
+[INFO ] 2018-02-11 09:00:30.817 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: 
+[INFO ] 2018-02-11 09:00:30.817 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: 
+[INFO ] 2018-02-11 09:00:30.817 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: Tue Oct 12 05:34:00 EDT 2004
+[INFO ] 2018-02-11 09:00:30.817 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: Mon Oct 25 13:10:00 EDT 2004
+[INFO ] 2018-02-11 09:00:30.821 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:00:30.824 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:00:30.829 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:00:30.829 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:00:30.829 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:00:30.829 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:07:21.850 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 120536 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-11 09:07:21.850 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-11 09:07:25.824 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:07:26.130 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 4.642 seconds (JVM running for 6.92)
+[INFO ] 2018-02-11 09:07:27.127 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:07:27.127 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:07:27.127 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:07:27.127 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:07:27.127 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:07:27.127 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:07:27.135 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:07:27.136 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:07:27.136 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:07:27.139 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:07:27.144 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:07:27.145 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:07:27.151 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:07:27.151 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:07:27.151 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:07:27.151 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:07:27.151 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:07:27.151 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:07:27.154 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:07:27.158 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:07:27.164 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:07:27.164 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:07:27.164 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:07:27.164 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:07:27.170 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:07:27.171 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:07:27.171 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:07:27.171 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:07:27.171 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:07:27.174 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:07:27.183 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:07:27.184 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:07:27.184 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:07:27.184 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:07:27.184 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:07:27.184 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:07:27.213 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:07:27.213 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Author: Wesley Ebisuzaki
+[INFO ] 2018-02-11 09:07:27.213 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:07:27.216 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:07:27.222 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: Fri Feb 08 09:33:49 EST 2013
+[INFO ] 2018-02-11 09:07:27.222 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: Sun Dec 31 19:00:00 EST 1600
+[INFO ] 2018-02-11 09:07:27.226 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:07:27.226 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:07:27.226 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:07:27.226 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:07:27.226 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:07:27.227 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:07:27.237 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Title: END-USER LICENSE AGREEMENT FOR MICROSOFT SOFTWARE
+[INFO ] 2018-02-11 09:07:27.243 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Author: deborahd
+[INFO ] 2018-02-11 09:07:27.243 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: 
+[INFO ] 2018-02-11 09:07:27.243 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: 
+[INFO ] 2018-02-11 09:07:27.243 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: Tue Oct 12 05:34:00 EDT 2004
+[INFO ] 2018-02-11 09:07:27.244 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: Mon Oct 25 13:10:00 EDT 2004
+[INFO ] 2018-02-11 09:07:27.248 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:07:27.248 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:07:27.248 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:07:27.251 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:07:27.256 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:07:27.256 [Camel (camel-1) thread #1 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:08:15.624 [rebel-change-detector-thread] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:08:16.116 [camel-reloader-camel-1] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:08:17.166 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:08:17.166 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:08:17.166 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:08:17.170 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:08:17.175 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:08:17.175 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:08:17.181 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:08:17.181 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:08:17.182 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:08:17.182 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:08:17.182 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:08:17.182 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:08:17.189 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:08:17.193 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:08:17.199 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:08:17.199 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:08:17.199 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:08:17.199 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:08:17.204 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:08:17.204 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:08:17.204 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:08:17.204 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:08:17.204 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:08:17.208 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:08:17.220 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:08:17.220 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:08:17.220 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:08:17.220 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:08:17.220 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:08:17.220 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:08:17.224 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:08:17.224 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:08:17.224 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:08:17.226 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:08:17.232 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:08:17.232 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:08:17.240 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:08:17.240 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Author: Wesley Ebisuzaki
+[INFO ] 2018-02-11 09:08:17.240 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:08:17.240 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:08:17.240 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: Fri Feb 08 09:33:49 EST 2013
+[INFO ] 2018-02-11 09:08:17.240 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: Sun Dec 31 19:00:00 EST 1600
+[INFO ] 2018-02-11 09:08:17.248 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:08:17.254 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:08:17.254 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:08:17.254 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:08:17.254 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:08:17.254 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:08:17.262 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Title: END-USER LICENSE AGREEMENT FOR MICROSOFT SOFTWARE
+[INFO ] 2018-02-11 09:08:17.262 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Author: deborahd
+[INFO ] 2018-02-11 09:08:17.262 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: 
+[INFO ] 2018-02-11 09:08:17.266 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: 
+[INFO ] 2018-02-11 09:08:17.272 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: Tue Oct 12 05:34:00 EDT 2004
+[INFO ] 2018-02-11 09:08:17.272 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: Mon Oct 25 13:10:00 EDT 2004
+[INFO ] 2018-02-11 09:08:17.276 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:08:17.276 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:08:17.276 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:08:17.276 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:08:17.276 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:08:17.276 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:08:30.184 [rebel-change-detector-thread] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:08:31.154 [camel-reloader-camel-1] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:08:32.194 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:08:32.194 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:08:32.194 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:08:32.194 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:08:32.194 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:08:32.194 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:08:32.202 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:08:32.207 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:08:32.207 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:08:32.207 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:08:32.207 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:08:32.207 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:08:32.212 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:08:32.212 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:08:32.212 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:08:32.212 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:08:32.215 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:08:32.220 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:08:32.223 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:08:32.223 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:08:32.223 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:08:32.223 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:08:32.223 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:08:32.223 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:08:32.229 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:08:32.229 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:08:32.232 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:08:32.236 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:08:32.236 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:08:32.236 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:08:32.239 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:08:32.239 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:08:32.239 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:08:32.239 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:08:32.239 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:08:32.240 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:08:32.248 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:08:32.253 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Author: Wesley Ebisuzaki
+[INFO ] 2018-02-11 09:08:32.253 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:08:32.253 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:08:32.253 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: Fri Feb 08 09:33:49 EST 2013
+[INFO ] 2018-02-11 09:08:32.253 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: Sun Dec 31 19:00:00 EST 1600
+[INFO ] 2018-02-11 09:08:32.256 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:08:32.256 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:08:32.256 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:08:32.259 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:08:32.264 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:08:32.264 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:08:32.270 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Title: END-USER LICENSE AGREEMENT FOR MICROSOFT SOFTWARE
+[INFO ] 2018-02-11 09:08:32.270 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Author: deborahd
+[INFO ] 2018-02-11 09:08:32.270 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: 
+[INFO ] 2018-02-11 09:08:32.270 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: 
+[INFO ] 2018-02-11 09:08:32.270 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: Tue Oct 12 05:34:00 EDT 2004
+[INFO ] 2018-02-11 09:08:32.270 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: Mon Oct 25 13:10:00 EDT 2004
+[INFO ] 2018-02-11 09:08:32.276 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:08:32.281 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:08:32.281 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:08:32.281 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:08:32.281 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:08:32.281 [Camel (camel-1) thread #6 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:09:40.677 [rebel-change-detector-thread] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:09:41.221 [camel-reloader-camel-1] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:09:42.259 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:09:42.259 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:09:42.259 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:09:42.259 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:09:42.259 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:09:42.259 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:09:42.264 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:09:42.264 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:09:42.267 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:09:42.272 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:09:42.272 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:09:42.272 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:09:42.277 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:09:42.277 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:09:42.277 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:09:42.277 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:09:42.277 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:09:42.277 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:09:42.283 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:09:42.287 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:09:42.288 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:09:42.288 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:09:42.288 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:09:42.288 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:09:42.293 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:09:42.294 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:09:42.294 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:09:42.294 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:09:42.296 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:09:42.302 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:09:42.305 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:09:42.305 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:09:42.305 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:09:42.305 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:09:42.305 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:09:42.305 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:09:42.311 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:09:42.311 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Author: Wesley Ebisuzaki
+[INFO ] 2018-02-11 09:09:42.314 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:09:42.320 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:09:42.320 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: Fri Feb 08 09:33:49 EST 2013
+[INFO ] 2018-02-11 09:09:42.320 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: Sun Dec 31 19:00:00 EST 1600
+[INFO ] 2018-02-11 09:09:42.323 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:09:42.324 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:09:42.324 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:09:42.324 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:09:42.324 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:09:42.327 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:09:42.339 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Title: END-USER LICENSE AGREEMENT FOR MICROSOFT SOFTWARE
+[INFO ] 2018-02-11 09:09:42.339 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Author: deborahd
+[INFO ] 2018-02-11 09:09:42.339 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: 
+[INFO ] 2018-02-11 09:09:42.339 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: 
+[INFO ] 2018-02-11 09:09:42.339 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: Tue Oct 12 05:34:00 EDT 2004
+[INFO ] 2018-02-11 09:09:42.339 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: Mon Oct 25 13:10:00 EDT 2004
+[INFO ] 2018-02-11 09:09:42.342 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:09:42.342 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:09:42.345 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:09:42.351 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:09:42.351 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:09:42.351 [Camel (camel-1) thread #9 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:10:24.187 [rebel-change-detector-thread] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:10:24.269 [camel-reloader-camel-1] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:10:25.300 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:10:25.302 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:10:25.308 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:10:25.308 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:10:25.308 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:10:25.308 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:10:25.313 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:10:25.313 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:10:25.313 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:10:25.313 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:10:25.313 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:10:25.316 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:10:25.326 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:10:25.326 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:10:25.327 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:10:25.327 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:10:25.327 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:10:25.327 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:10:25.330 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:10:25.330 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:10:25.330 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:10:25.335 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:10:25.342 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:10:25.342 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:10:25.348 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:10:25.348 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:10:25.348 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:10:25.348 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:10:25.348 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:10:25.348 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:10:25.352 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:10:25.355 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:10:25.360 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:10:25.361 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:10:25.361 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:10:25.361 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:10:25.367 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:10:25.367 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Author: Wesley Ebisuzaki
+[INFO ] 2018-02-11 09:10:25.367 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:10:25.367 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:10:25.368 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: Fri Feb 08 09:33:49 EST 2013
+[INFO ] 2018-02-11 09:10:25.371 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: Sun Dec 31 19:00:00 EST 1600
+[INFO ] 2018-02-11 09:10:25.380 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:10:25.380 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:10:25.380 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:10:25.380 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:10:25.380 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:10:25.380 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:10:25.387 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Title: END-USER LICENSE AGREEMENT FOR MICROSOFT SOFTWARE
+[INFO ] 2018-02-11 09:10:25.387 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Author: deborahd
+[INFO ] 2018-02-11 09:10:25.390 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: 
+[INFO ] 2018-02-11 09:10:25.395 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: 
+[INFO ] 2018-02-11 09:10:25.395 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: Tue Oct 12 05:34:00 EDT 2004
+[INFO ] 2018-02-11 09:10:25.395 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: Mon Oct 25 13:10:00 EDT 2004
+[INFO ] 2018-02-11 09:10:25.399 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:10:25.399 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:10:25.399 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:10:25.399 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:10:25.399 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:10:25.403 [Camel (camel-1) thread #11 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:11:34.444 [rebel-change-detector-thread] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:11:35.329 [camel-reloader-camel-1] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:11:36.363 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:11:36.364 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:11:36.366 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:11:36.371 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:11:36.371 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:11:36.371 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:11:36.376 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:11:36.376 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:11:36.376 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:11:36.376 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:11:36.376 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:11:36.376 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:11:36.383 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:11:36.388 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:11:36.388 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:11:36.388 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:11:36.388 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:11:36.389 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:11:36.392 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:11:36.392 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:11:36.392 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:11:36.392 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:11:36.395 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:11:36.400 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:11:36.406 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:11:36.406 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:11:36.406 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:11:36.406 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:11:36.406 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:11:36.406 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:11:36.409 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:11:36.409 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:11:36.411 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:11:36.416 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:11:36.416 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:11:36.416 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:11:36.422 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:11:36.422 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Author: Wesley Ebisuzaki
+[INFO ] 2018-02-11 09:11:36.422 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:11:36.422 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:11:36.422 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: Fri Feb 08 09:33:49 EST 2013
+[INFO ] 2018-02-11 09:11:36.422 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: Sun Dec 31 19:00:00 EST 1600
+[INFO ] 2018-02-11 09:11:36.428 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:11:36.434 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:11:36.434 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:11:36.434 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:11:36.434 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:11:36.434 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:11:36.440 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Title: END-USER LICENSE AGREEMENT FOR MICROSOFT SOFTWARE
+[INFO ] 2018-02-11 09:11:36.440 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Author: deborahd
+[INFO ] 2018-02-11 09:11:36.440 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: 
+[INFO ] 2018-02-11 09:11:36.443 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: 
+[INFO ] 2018-02-11 09:11:36.448 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: Tue Oct 12 05:34:00 EDT 2004
+[INFO ] 2018-02-11 09:11:36.448 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: Mon Oct 25 13:10:00 EDT 2004
+[INFO ] 2018-02-11 09:11:36.452 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:11:36.452 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:11:36.452 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:11:36.452 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:11:36.452 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:11:36.452 [Camel (camel-1) thread #14 - smb://alper@FRED/myshare2] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:12:04.053 [rebel-change-detector-thread] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:12:04.365 [camel-reloader-camel-1] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:12:15.691 [rebel-change-detector-thread] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:12:16.383 [camel-reloader-camel-1] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:15:00.651 [rebel-change-detector-thread] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:15:01.501 [camel-reloader-camel-1] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:15:15.016 [rebel-change-detector-thread] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:15:15.514 [camel-reloader-camel-1] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:17:24.432 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 116384 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-11 09:17:24.432 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-11 09:17:28.407 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:17:28.736 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 4.661 seconds (JVM running for 6.954)
+[INFO ] 2018-02-11 09:17:29.728 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:17:29.728 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:17:29.733 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:17:29.733 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:17:29.733 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:17:29.739 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:17:29.739 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:17:29.739 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:17:29.739 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:17:29.740 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:17:29.740 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:17:29.740 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:17:29.740 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:17:29.740 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:17:29.752 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:17:29.752 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:17:29.752 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:17:29.752 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:17:29.753 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:17:29.753 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:17:29.753 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:17:29.753 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:17:29.753 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:17:29.766 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:17:29.766 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:17:29.766 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:17:29.766 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:17:29.766 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:17:29.766 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:17:29.766 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:17:29.774 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:17:29.776 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:17:29.781 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:17:29.781 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:17:29.781 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:17:29.781 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:17:29.781 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:17:29.781 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:17:29.781 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:17:29.781 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:17:29.788 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:17:29.794 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:17:29.794 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:17:29.794 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:17:29.794 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:17:29.794 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:17:29.794 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:17:29.795 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:17:29.805 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:17:29.808 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:17:29.811 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:17:29.811 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:17:29.811 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:17:29.811 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:17:29.812 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:17:29.812 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:17:29.812 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:17:29.812 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:17:29.812 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:17:29.823 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:17:29.830 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:17:29.830 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:17:29.830 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:17:29.830 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:17:29.830 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:17:29.830 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:17:29.837 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:17:29.840 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:17:29.847 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:17:29.847 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:17:29.847 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:17:29.847 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:17:29.851 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:17:29.851 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:17:29.851 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:17:29.851 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:17:29.851 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:17:29.854 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:17:29.860 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:17:29.860 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:17:29.860 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:17:29.860 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:17:29.861 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:17:29.861 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:17:29.882 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:17:29.882 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: Wesley Ebisuzaki
+[INFO ] 2018-02-11 09:17:29.882 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:17:29.885 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:17:29.890 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: Fri Feb 08 09:33:49 EST 2013
+[INFO ] 2018-02-11 09:17:29.890 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: Sun Dec 31 19:00:00 EST 1600
+[INFO ] 2018-02-11 09:17:29.895 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:17:29.895 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:17:29.895 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:17:29.895 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:17:29.896 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:17:29.896 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:17:29.906 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: END-USER LICENSE AGREEMENT FOR MICROSOFT SOFTWARE
+[INFO ] 2018-02-11 09:17:29.912 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: deborahd
+[INFO ] 2018-02-11 09:17:29.912 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: 
+[INFO ] 2018-02-11 09:17:29.912 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: 
+[INFO ] 2018-02-11 09:17:29.912 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: Tue Oct 12 05:34:00 EDT 2004
+[INFO ] 2018-02-11 09:17:29.913 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: Mon Oct 25 13:10:00 EDT 2004
+[INFO ] 2018-02-11 09:17:29.917 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:17:29.917 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:17:29.917 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:17:29.920 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:17:29.925 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:17:29.925 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:23:32.546 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 133476 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-11 09:23:32.547 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-11 09:23:36.513 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:23:36.851 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 4.663 seconds (JVM running for 6.945)
+[INFO ] 2018-02-11 09:23:37.835 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:23:37.835 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:23:37.835 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:23:37.835 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:23:37.835 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:23:37.835 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:23:37.840 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:23:37.840 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:23:37.840 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:23:37.845 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:23:37.845 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:23:37.845 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:23:37.845 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:23:37.846 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:23:37.846 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:23:37.846 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:23:37.846 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:23:37.846 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:23:37.859 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:23:37.859 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:23:37.859 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:23:37.859 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:23:37.859 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:23:37.859 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:23:37.859 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:23:37.859 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:23:37.871 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:23:37.871 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:23:37.872 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:23:37.872 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:23:37.877 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:23:37.877 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:23:37.877 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:23:37.880 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:23:37.886 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:23:37.886 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:23:37.886 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:23:37.886 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:23:37.886 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:23:37.886 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:23:37.886 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:23:37.886 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:23:37.886 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:23:37.886 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:23:37.898 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:23:37.898 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:23:37.898 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:23:37.898 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:23:37.904 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:23:37.904 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:23:37.904 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:23:37.904 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:23:37.904 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:23:37.914 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:23:37.914 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:23:37.914 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:23:37.914 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:23:37.914 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:23:37.914 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:23:37.914 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:23:37.921 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:23:37.924 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:23:37.930 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:23:37.930 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:23:37.930 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:23:37.930 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:23:37.938 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:23:37.938 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:23:37.938 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:23:37.938 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:23:37.938 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:23:37.938 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:23:37.947 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:23:37.947 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:23:37.947 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:23:37.947 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:23:37.947 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:23:37.947 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:23:37.951 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:23:37.951 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:23:37.955 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:23:37.961 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:23:37.961 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:23:37.961 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:23:37.984 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:23:37.984 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: Wesley Ebisuzaki
+[INFO ] 2018-02-11 09:23:37.984 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:23:37.984 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:23:37.985 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: Fri Feb 08 09:33:49 EST 2013
+[INFO ] 2018-02-11 09:23:37.985 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: Sun Dec 31 19:00:00 EST 1600
+[INFO ] 2018-02-11 09:23:37.991 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:23:37.996 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:23:37.997 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:23:37.997 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:23:37.997 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:23:37.997 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:23:38.004 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: END-USER LICENSE AGREEMENT FOR MICROSOFT SOFTWARE
+[INFO ] 2018-02-11 09:23:38.004 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: deborahd
+[INFO ] 2018-02-11 09:23:38.004 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: 
+[INFO ] 2018-02-11 09:23:38.007 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: 
+[INFO ] 2018-02-11 09:23:38.013 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: Tue Oct 12 05:34:00 EDT 2004
+[INFO ] 2018-02-11 09:23:38.013 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: Mon Oct 25 13:10:00 EDT 2004
+[INFO ] 2018-02-11 09:23:38.017 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:23:38.018 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:23:38.018 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:23:38.018 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:23:38.018 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:23:38.018 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:28:59.948 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 8944 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-11 09:28:59.955 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-11 09:29:03.952 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:29:04.295 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 4.712 seconds (JVM running for 7.031)
+[INFO ] 2018-02-11 09:29:05.277 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:29:05.277 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:29:05.277 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:29:05.277 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:29:05.278 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:29:05.278 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:29:05.278 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:29:05.278 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:29:05.281 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:29:05.281 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:29:05.283 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:29:05.288 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:29:05.288 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:29:05.288 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:29:05.288 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:29:05.288 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:29:05.288 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:29:05.288 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:29:05.288 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:29:05.295 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:29:05.301 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:29:05.301 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:29:05.301 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:29:05.301 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:29:05.301 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:29:05.301 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:29:05.301 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:29:05.313 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:29:05.313 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:29:05.314 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:29:05.318 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:29:05.318 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:29:05.319 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:29:05.319 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:29:05.319 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:29:05.319 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:29:05.321 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:29:05.328 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:29:05.328 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:29:05.328 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:29:05.328 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:29:05.329 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:29:05.329 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:29:05.329 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:29:05.329 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:29:05.329 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:29:05.341 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:29:05.341 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:29:05.353 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:29:05.353 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:29:05.353 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:29:05.353 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:29:05.353 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:29:05.354 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:29:05.363 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:29:05.363 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:29:05.363 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:29:05.364 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:29:05.364 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:29:05.364 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:29:05.368 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:29:05.368 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:29:05.372 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:29:05.380 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:29:05.380 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:29:05.380 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:29:05.389 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:29:05.389 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:29:05.389 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:29:05.389 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:29:05.389 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:29:05.389 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:29:05.389 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:29:05.398 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:29:05.398 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:29:05.398 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:29:05.398 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:29:05.399 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:29:05.403 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:29:05.403 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:29:05.403 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:29:05.406 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:29:05.412 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:29:05.412 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:29:05.435 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:29:05.436 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: Wesley Ebisuzaki
+[INFO ] 2018-02-11 09:29:05.436 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:29:05.436 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:29:05.436 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: Fri Feb 08 09:33:49 EST 2013
+[INFO ] 2018-02-11 09:29:05.436 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: Sun Dec 31 19:00:00 EST 1600
+[INFO ] 2018-02-11 09:29:05.442 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:29:05.447 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:29:05.448 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:29:05.448 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:29:05.448 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:29:05.448 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:29:05.456 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: END-USER LICENSE AGREEMENT FOR MICROSOFT SOFTWARE
+[INFO ] 2018-02-11 09:29:05.456 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: deborahd
+[INFO ] 2018-02-11 09:29:05.456 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: 
+[INFO ] 2018-02-11 09:29:05.459 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: 
+[INFO ] 2018-02-11 09:29:05.465 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: Tue Oct 12 05:34:00 EDT 2004
+[INFO ] 2018-02-11 09:29:05.465 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: Mon Oct 25 13:10:00 EDT 2004
+[INFO ] 2018-02-11 09:29:05.469 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:29:05.469 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:29:05.469 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:29:05.469 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:29:05.469 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:29:05.469 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:30:30.500 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 14300 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-11 09:30:30.507 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-11 09:30:34.454 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:30:34.804 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 4.663 seconds (JVM running for 6.935)
+[INFO ] 2018-02-11 09:30:35.790 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:30:35.790 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:30:35.790 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:30:35.790 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:30:35.790 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:30:35.790 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:30:35.790 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:30:35.790 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:30:35.790 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:30:35.790 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:30:35.795 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:30:35.795 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:30:35.795 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:30:35.800 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:30:35.800 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:30:35.800 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:30:35.800 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:30:35.800 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:30:35.800 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:30:35.800 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:30:35.800 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:30:35.814 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:30:35.814 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:30:35.814 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:30:35.814 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:30:35.814 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:30:35.814 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:30:35.814 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:30:35.815 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:30:35.828 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:30:35.833 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:30:35.833 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:30:35.833 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:30:35.833 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:30:35.833 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:30:35.833 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:30:35.834 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:30:35.836 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:30:35.843 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:30:35.843 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:30:35.843 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:30:35.843 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:30:35.843 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:30:35.843 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:30:35.843 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:30:35.843 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:30:35.852 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:30:35.859 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:30:35.859 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:30:35.859 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:30:35.859 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:30:35.859 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:30:35.859 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:30:35.859 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:30:35.869 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:30:35.876 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:30:35.876 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:30:35.876 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:30:35.876 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:30:35.876 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:30:35.882 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:30:35.882 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:30:35.882 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:30:35.882 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:30:35.886 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:30:35.892 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:30:35.894 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:30:35.894 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:30:35.894 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:30:35.894 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:30:35.894 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:30:35.894 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:30:35.900 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:30:35.901 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:30:35.904 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:30:35.910 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:30:35.911 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:30:35.911 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:30:35.916 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:30:35.916 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:30:35.916 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:30:35.916 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:30:35.916 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:30:35.916 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:30:35.942 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:30:35.948 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: Wesley Ebisuzaki
+[INFO ] 2018-02-11 09:30:35.948 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:30:35.948 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:30:35.948 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: Fri Feb 08 09:33:49 EST 2013
+[INFO ] 2018-02-11 09:30:35.949 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: Sun Dec 31 19:00:00 EST 1600
+[INFO ] 2018-02-11 09:30:35.954 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:30:35.954 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:30:35.954 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:30:35.957 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:30:35.963 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:30:35.963 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:30:35.972 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: END-USER LICENSE AGREEMENT FOR MICROSOFT SOFTWARE
+[INFO ] 2018-02-11 09:30:35.972 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: deborahd
+[INFO ] 2018-02-11 09:30:35.972 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: 
+[INFO ] 2018-02-11 09:30:35.972 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: 
+[INFO ] 2018-02-11 09:30:35.972 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: Tue Oct 12 05:34:00 EDT 2004
+[INFO ] 2018-02-11 09:30:35.972 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: Mon Oct 25 13:10:00 EDT 2004
+[INFO ] 2018-02-11 09:30:35.980 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:30:35.987 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:30:35.987 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:30:35.987 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:30:35.987 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:30:35.987 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:38:30.483 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 126392 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-11 09:38:30.484 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-11 09:38:34.474 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:38:34.813 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 4.685 seconds (JVM running for 6.965)
+[INFO ] 2018-02-11 09:38:35.792 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:38:35.792 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:38:35.797 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:38:35.797 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:38:35.797 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:38:35.802 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:38:35.802 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:38:35.802 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:38:35.802 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:38:35.802 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:38:35.802 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:38:35.802 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:38:35.802 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:38:35.802 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:38:35.814 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:38:35.814 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:38:35.814 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:38:35.814 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:38:35.814 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:38:35.815 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:38:35.815 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:38:35.815 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:38:35.821 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:38:35.828 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:38:35.828 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:38:35.828 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:38:35.828 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:38:35.828 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:38:35.828 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:38:35.828 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:38:35.833 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:38:35.842 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:38:35.842 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:38:35.842 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:38:35.842 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:38:35.842 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:38:35.846 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:38:35.849 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:38:35.855 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:38:35.855 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:38:35.855 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:38:35.855 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:38:35.855 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:38:35.855 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:38:35.856 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:38:35.856 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:38:35.856 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:38:35.856 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:38:35.875 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:38:35.875 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:38:35.875 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:38:35.875 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:38:35.876 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:38:35.876 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:38:35.876 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:38:35.876 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:38:35.876 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:38:35.885 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:38:35.885 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:38:35.885 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:38:35.892 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:38:35.892 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:38:35.892 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:38:35.892 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:38:35.892 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:38:35.895 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:38:35.909 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:38:35.909 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:38:35.909 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:38:35.909 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:38:35.909 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:38:35.910 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:38:35.911 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:38:35.911 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:38:35.911 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:38:35.914 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:38:35.919 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:38:35.919 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:38:35.924 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:38:35.924 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:38:35.924 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:38:35.924 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:38:35.924 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:38:35.924 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:38:35.947 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:38:35.950 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: Wesley Ebisuzaki
+[INFO ] 2018-02-11 09:38:35.956 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:38:35.956 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:38:35.956 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: Fri Feb 08 09:33:49 EST 2013
+[INFO ] 2018-02-11 09:38:35.956 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: Sun Dec 31 19:00:00 EST 1600
+[INFO ] 2018-02-11 09:38:35.960 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:38:35.960 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:38:35.960 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:38:35.960 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:38:35.963 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:38:35.969 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:38:35.977 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: END-USER LICENSE AGREEMENT FOR MICROSOFT SOFTWARE
+[INFO ] 2018-02-11 09:38:35.977 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: deborahd
+[INFO ] 2018-02-11 09:38:35.977 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: 
+[INFO ] 2018-02-11 09:38:35.977 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: 
+[INFO ] 2018-02-11 09:38:35.977 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: Tue Oct 12 05:34:00 EDT 2004
+[INFO ] 2018-02-11 09:38:35.977 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: Mon Oct 25 13:10:00 EDT 2004
+[INFO ] 2018-02-11 09:38:35.981 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:38:35.984 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:38:35.990 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:38:35.990 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:38:35.990 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:38:35.990 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:39:24.539 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 135564 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-11 09:39:24.539 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-11 09:39:28.501 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:39:28.698 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 4.525 seconds (JVM running for 6.82)
+[INFO ] 2018-02-11 09:40:17.715 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 132336 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-11 09:40:17.716 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-11 09:40:21.615 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:40:21.942 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 4.584 seconds (JVM running for 6.856)
+[INFO ] 2018-02-11 09:40:22.926 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:40:22.926 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:40:22.926 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:40:22.926 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:40:22.926 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:40:22.926 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:40:22.930 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:40:22.930 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:40:22.930 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:40:22.936 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:40:22.936 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:40:22.936 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:40:22.936 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:40:22.936 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:40:22.936 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:40:22.936 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:40:22.936 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:40:22.936 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:40:22.947 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:40:22.947 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:40:22.947 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:40:22.947 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:40:22.948 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:40:22.948 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:40:22.948 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:40:22.959 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:40:22.959 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:40:22.959 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:40:22.960 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:40:22.960 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:40:22.964 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:40:22.964 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:40:22.967 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:40:22.968 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:40:22.973 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:40:22.973 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:40:22.973 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:40:22.974 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:40:22.974 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:40:22.974 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:40:22.974 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:40:22.974 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:40:22.974 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:40:22.985 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:40:22.985 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:40:22.985 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:40:22.985 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:40:22.985 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:40:22.991 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:40:22.992 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:40:22.992 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:40:23.001 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:40:23.001 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:40:23.001 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:40:23.001 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:40:23.001 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:40:23.001 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:40:23.001 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:40:23.001 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:40:23.005 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:40:23.013 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:40:23.013 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:40:23.013 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:40:23.014 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:40:23.014 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:40:23.014 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:40:23.021 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:40:23.021 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:40:23.026 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:40:23.032 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:40:23.032 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:40:23.032 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:40:23.037 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:40:23.037 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:40:23.037 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:40:23.037 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:40:23.037 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:40:23.038 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:40:23.038 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:40:23.046 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:40:23.046 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:40:23.047 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:40:23.047 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:40:23.047 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:40:23.070 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:40:23.070 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: Wesley Ebisuzaki
+[INFO ] 2018-02-11 09:40:23.070 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:40:23.073 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:40:23.078 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: Fri Feb 08 09:33:49 EST 2013
+[INFO ] 2018-02-11 09:40:23.078 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: Sun Dec 31 19:00:00 EST 1600
+[INFO ] 2018-02-11 09:40:23.083 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:40:23.083 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:40:23.083 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:40:23.083 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:40:23.083 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:40:23.083 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:40:23.093 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: END-USER LICENSE AGREEMENT FOR MICROSOFT SOFTWARE
+[INFO ] 2018-02-11 09:40:23.099 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: deborahd
+[INFO ] 2018-02-11 09:40:23.099 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: 
+[INFO ] 2018-02-11 09:40:23.099 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: 
+[INFO ] 2018-02-11 09:40:23.099 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: Tue Oct 12 05:34:00 EDT 2004
+[INFO ] 2018-02-11 09:40:23.099 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: Mon Oct 25 13:10:00 EDT 2004
+[INFO ] 2018-02-11 09:40:23.103 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:40:23.103 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:40:23.103 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:40:23.106 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:40:23.112 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:40:23.112 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:41:00.245 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 2972 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-11 09:41:00.246 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-11 09:41:04.181 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:41:04.518 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 4.626 seconds (JVM running for 6.908)
+[INFO ] 2018-02-11 09:41:05.501 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:41:05.501 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:41:05.501 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:41:05.501 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:41:05.501 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:41:05.501 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:41:05.506 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:41:05.506 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:41:05.506 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:41:05.511 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:41:05.511 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:41:05.511 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:41:05.511 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:41:05.512 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:41:05.512 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:41:05.512 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:41:05.512 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:41:05.512 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:41:05.524 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:41:05.524 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:41:05.524 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:41:05.524 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:41:05.524 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:41:05.524 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:41:05.524 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:41:05.524 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:41:05.537 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:41:05.537 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:41:05.537 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:41:05.538 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:41:05.542 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:41:05.542 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:41:05.543 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:41:05.543 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:41:05.546 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:41:05.552 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:41:05.552 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:41:05.552 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:41:05.552 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:41:05.552 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:41:05.552 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:41:05.552 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:41:05.552 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:41:05.553 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:41:05.564 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:41:05.564 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:41:05.564 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:41:05.564 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:41:05.572 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:41:05.572 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:41:05.572 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:41:05.572 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:41:05.584 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:41:05.584 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:41:05.584 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:41:05.584 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:41:05.584 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:41:05.584 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:41:05.584 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:41:05.584 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:41:05.589 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:41:05.598 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:41:05.599 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:41:05.599 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:41:05.599 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:41:05.599 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:41:05.607 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:41:05.607 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:41:05.607 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:41:05.611 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:41:05.617 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:41:05.617 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:41:05.622 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:41:05.622 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:41:05.622 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:41:05.622 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:41:05.623 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:41:05.623 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:41:05.624 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:41:05.628 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:41:05.635 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:41:05.636 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:41:05.636 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:41:05.636 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:41:05.649 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:41:05.649 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: Wesley Ebisuzaki
+[INFO ] 2018-02-11 09:41:05.650 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:41:05.650 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:41:05.650 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: Fri Feb 08 09:33:49 EST 2013
+[INFO ] 2018-02-11 09:41:05.653 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: Sun Dec 31 19:00:00 EST 1600
+[INFO ] 2018-02-11 09:41:05.663 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:41:05.663 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:41:05.663 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:41:05.663 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:41:05.663 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:41:05.663 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:41:05.670 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: END-USER LICENSE AGREEMENT FOR MICROSOFT SOFTWARE
+[INFO ] 2018-02-11 09:41:05.670 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: deborahd
+[INFO ] 2018-02-11 09:41:05.673 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: 
+[INFO ] 2018-02-11 09:41:05.679 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: 
+[INFO ] 2018-02-11 09:41:05.679 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: Tue Oct 12 05:34:00 EDT 2004
+[INFO ] 2018-02-11 09:41:05.679 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: Mon Oct 25 13:10:00 EDT 2004
+[INFO ] 2018-02-11 09:41:05.684 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:41:05.684 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:41:05.684 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:41:05.684 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:41:05.684 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:41:05.687 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:42:10.565 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 136076 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-11 09:42:10.565 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-11 09:42:14.503 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:42:14.837 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 4.625 seconds (JVM running for 6.913)
+[INFO ] 2018-02-11 09:42:15.819 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:42:15.819 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:42:15.820 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:42:15.820 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:42:15.820 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:42:15.820 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:42:15.820 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:42:15.824 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:42:15.824 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:42:15.824 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:42:15.831 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:42:15.831 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:42:15.831 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:42:15.831 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:42:15.831 [Camel (camel-1) thread #4 - smb://alper@FRED/Users/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:42:15.831 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:42:15.831 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:42:15.831 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:42:15.831 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:42:15.844 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:42:15.844 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:42:15.844 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:42:15.844 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:42:15.844 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:42:15.844 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:42:15.844 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:42:15.857 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:42:15.857 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:42:15.857 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:42:15.857 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:42:15.863 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:42:15.863 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:42:15.863 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:42:15.864 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:42:15.866 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:42:15.873 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:42:15.873 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:42:15.873 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:42:15.874 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:42:15.874 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:42:15.874 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:42:15.874 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:42:15.874 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:42:15.874 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:42:15.886 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:42:15.886 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:42:15.886 [Camel (camel-1) thread #5 - smb://alper@FRED/myshare/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:42:15.886 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:42:15.893 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:42:15.893 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:42:15.893 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:42:15.893 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:42:15.903 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:42:15.903 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:42:15.903 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:42:15.903 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:42:15.904 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:42:15.904 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:42:15.904 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:42:15.904 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:42:15.908 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:42:15.917 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:42:15.917 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:42:15.917 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:42:15.917 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:42:15.917 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:42:15.925 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:42:15.925 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:42:15.925 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:42:15.929 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:42:15.936 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:42:15.936 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:42:15.941 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:42:15.941 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:42:15.941 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:42:15.941 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:42:15.941 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:42:15.941 [Camel (camel-1) thread #6 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:42:15.941 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:42:15.945 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:42:15.951 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:42:15.951 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:42:15.952 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:42:15.952 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:42:15.975 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:42:15.975 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: Wesley Ebisuzaki
+[INFO ] 2018-02-11 09:42:15.975 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:42:15.975 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:42:15.975 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: Fri Feb 08 09:33:49 EST 2013
+[INFO ] 2018-02-11 09:42:15.978 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: Sun Dec 31 19:00:00 EST 1600
+[INFO ] 2018-02-11 09:42:15.989 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:42:15.989 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:42:15.989 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:42:15.989 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:42:15.989 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:42:15.989 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:42:15.997 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: END-USER LICENSE AGREEMENT FOR MICROSOFT SOFTWARE
+[INFO ] 2018-02-11 09:42:15.997 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: deborahd
+[INFO ] 2018-02-11 09:42:16.000 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: 
+[INFO ] 2018-02-11 09:42:16.006 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: 
+[INFO ] 2018-02-11 09:42:16.007 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: Tue Oct 12 05:34:00 EDT 2004
+[INFO ] 2018-02-11 09:42:16.007 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: Mon Oct 25 13:10:00 EDT 2004
+[INFO ] 2018-02-11 09:42:16.011 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:42:16.011 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:42:16.011 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:42:16.011 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:42:16.011 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:42:16.014 [Camel (camel-1) thread #3 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:44:18.576 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 564 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-11 09:44:18.577 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-11 09:44:22.632 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:44:22.967 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 4.761 seconds (JVM running for 7.076)
+[INFO ] 2018-02-11 09:44:23.948 [Camel (camel-1) thread #3 - smb://alper@FRED/Users/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:44:23.948 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:44:23.948 [Camel (camel-1) thread #3 - smb://alper@FRED/Users/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:44:23.948 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:44:23.948 [Camel (camel-1) thread #3 - smb://alper@FRED/Users/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:44:23.948 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:44:23.948 [Camel (camel-1) thread #3 - smb://alper@FRED/Users/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:44:23.948 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:44:23.951 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:44:23.951 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:44:23.951 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:44:23.959 [Camel (camel-1) thread #3 - smb://alper@FRED/Users/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:44:23.959 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:44:23.959 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:44:23.959 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:44:23.959 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:44:23.959 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:44:23.959 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:44:23.959 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:44:23.959 [Camel (camel-1) thread #3 - smb://alper@FRED/Users/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:44:23.971 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:44:23.971 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:44:23.971 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:44:23.971 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:44:23.971 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:44:23.971 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:44:23.972 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:44:23.972 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:44:23.984 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:44:23.984 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:44:23.988 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:44:23.988 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:44:23.988 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:44:23.988 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:44:23.988 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:44:23.988 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:44:23.992 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:44:23.998 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:44:23.998 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:44:23.998 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:44:23.998 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:44:23.998 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:44:23.998 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:44:23.998 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:44:23.998 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:44:23.998 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:44:24.010 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:44:24.010 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:44:24.016 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:44:24.016 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:44:24.016 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:44:24.016 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:44:24.016 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:44:24.020 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:44:24.020 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:44:24.025 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:44:24.025 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:44:24.025 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:44:24.026 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:44:24.026 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:44:24.029 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:44:24.029 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:44:24.029 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:44:24.033 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:44:24.039 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:44:24.039 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:44:24.046 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:44:24.046 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:44:24.046 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:44:24.046 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:44:24.046 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:44:24.047 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:44:24.047 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:44:24.051 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:44:24.058 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:44:24.058 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:44:24.058 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:44:24.058 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:44:24.058 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:44:24.058 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:44:24.058 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:44:24.058 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:44:24.058 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:44:24.070 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:44:24.094 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:44:24.094 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: Wesley Ebisuzaki
+[INFO ] 2018-02-11 09:44:24.094 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:44:24.095 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:44:24.095 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: Fri Feb 08 09:33:49 EST 2013
+[INFO ] 2018-02-11 09:44:24.095 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: Sun Dec 31 19:00:00 EST 1600
+[INFO ] 2018-02-11 09:44:24.101 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:44:24.107 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:44:24.107 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:44:24.107 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:44:24.107 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:44:24.107 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:44:24.115 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: END-USER LICENSE AGREEMENT FOR MICROSOFT SOFTWARE
+[INFO ] 2018-02-11 09:44:24.115 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: deborahd
+[INFO ] 2018-02-11 09:44:24.115 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: 
+[INFO ] 2018-02-11 09:44:24.118 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: 
+[INFO ] 2018-02-11 09:44:24.124 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: Tue Oct 12 05:34:00 EDT 2004
+[INFO ] 2018-02-11 09:44:24.124 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: Mon Oct 25 13:10:00 EDT 2004
+[INFO ] 2018-02-11 09:44:24.129 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:44:24.129 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:44:24.129 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:44:24.129 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:44:24.129 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:44:24.129 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:46:13.383 [main] EDiscoveryDocumentRepositoryTest - Starting EDiscoveryDocumentRepositoryTest on Fred with PID 3868 (started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-11 09:46:13.389 [main] EDiscoveryDocumentRepositoryTest - The following profiles are active: local
+[INFO ] 2018-02-11 09:46:17.223 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:46:17.557 [main] EDiscoveryDocumentRepositoryTest - Started EDiscoveryDocumentRepositoryTest in 4.305 seconds (JVM running for 5.0)
+[INFO ] 2018-02-11 09:46:28.494 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 7136 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-11 09:46:28.495 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-11 09:46:32.526 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-11 09:46:32.871 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 4.737 seconds (JVM running for 7.028)
+[INFO ] 2018-02-11 09:46:33.836 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:46:33.836 [Camel (camel-1) thread #3 - smb://alper@FRED/Users/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:46:33.836 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:46:33.836 [Camel (camel-1) thread #3 - smb://alper@FRED/Users/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:46:33.836 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:46:33.836 [Camel (camel-1) thread #3 - smb://alper@FRED/Users/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:46:33.836 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:46:33.836 [Camel (camel-1) thread #3 - smb://alper@FRED/Users/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:46:33.840 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:46:33.840 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:46:33.840 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:46:33.846 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:46:33.846 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:46:33.846 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:46:33.846 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:46:33.846 [Camel (camel-1) thread #3 - smb://alper@FRED/Users/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:46:33.846 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:46:33.846 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:46:33.846 [Camel (camel-1) thread #1 - smb://alper@FRED/videos/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:46:33.860 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:46:33.860 [Camel (camel-1) thread #3 - smb://alper@FRED/Users/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:46:33.860 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:46:33.860 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:46:33.860 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:46:33.860 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:46:33.860 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:46:33.860 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:46:33.874 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:46:33.874 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:46:33.873 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:46:33.879 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:46:33.879 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:46:33.879 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:46:33.879 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:46:33.881 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:46:33.882 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:46:33.888 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:46:33.888 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:46:33.888 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:46:33.888 [Camel (camel-1) thread #4 - smb://alper@FRED/myshare/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:46:33.888 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:46:33.888 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:46:33.888 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:46:33.888 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:46:33.901 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:46:33.901 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:46:33.901 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:46:33.901 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:46:33.909 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:46:33.909 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:46:33.909 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:46:33.909 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:46:33.909 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:46:33.918 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:46:33.918 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:46:33.919 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:46:33.919 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:46:33.919 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:46:33.919 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:46:33.919 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:46:33.924 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:46:33.928 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:46:33.935 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:46:33.935 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:46:33.935 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:46:33.935 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:46:33.943 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:46:33.943 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:46:33.943 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:46:33.943 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:46:33.943 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:46:33.944 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:46:33.953 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:46:33.953 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:46:33.953 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:46:33.953 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:46:33.953 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:46:33.953 [Camel (camel-1) thread #5 - smb://alper@FRED/pics/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:46:33.957 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:46:33.958 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:46:33.961 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:46:33.967 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:46:33.967 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:46:33.967 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:46:33.991 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:46:33.991 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: Wesley Ebisuzaki
+[INFO ] 2018-02-11 09:46:33.991 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:46:33.991 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:46:33.991 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: Fri Feb 08 09:33:49 EST 2013
+[INFO ] 2018-02-11 09:46:33.991 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: Sun Dec 31 19:00:00 EST 1600
+[INFO ] 2018-02-11 09:46:33.998 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:46:34.003 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:46:34.003 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:46:34.003 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:46:34.004 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:46:34.004 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-11 09:46:34.011 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: END-USER LICENSE AGREEMENT FOR MICROSOFT SOFTWARE
+[INFO ] 2018-02-11 09:46:34.011 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: deborahd
+[INFO ] 2018-02-11 09:46:34.012 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: 
+[INFO ] 2018-02-11 09:46:34.014 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: 
+[INFO ] 2018-02-11 09:46:34.020 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: Tue Oct 12 05:34:00 EDT 2004
+[INFO ] 2018-02-11 09:46:34.020 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: Mon Oct 25 13:10:00 EDT 2004
+[INFO ] 2018-02-11 09:46:34.024 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
+[INFO ] 2018-02-11 09:46:34.024 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
+[INFO ] 2018-02-11 09:46:34.024 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-11 09:46:34.024 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-11 09:46:34.024 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-11 09:46:34.024 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null

@@ -4,6 +4,8 @@ import static org.assertj.core.api.Assertions.*;
 
 import java.util.UUID;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -17,10 +19,10 @@ import com.koniag.MSExchange.camelExchange.CamelExchangeMain.repositories.EDisco
 
 import lombok.extern.log4j.Log4j;
 
-@Log4j
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class EDiscoveryDocumentRepositoryTest {
+    private static Logger logger = LogManager.getLogger();
 
 	@Autowired
 	private EDiscoveryDocumentRepository eDiscoveryDocumentRepository;
