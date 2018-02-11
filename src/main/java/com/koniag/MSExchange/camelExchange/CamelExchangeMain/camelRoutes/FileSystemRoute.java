@@ -1,5 +1,6 @@
 package com.koniag.MSExchange.camelExchange.CamelExchangeMain.camelRoutes;
 
+import java.io.File;
 import java.io.InputStream;
 import java.util.HashMap;
 import java.util.Map;
@@ -19,6 +20,8 @@ import com.profesorfalken.jpowershell.PowerShell;
 import com.profesorfalken.jpowershell.PowerShellNotAvailableException;
 import com.profesorfalken.jpowershell.PowerShellResponse;
 
+import jcifs.smb.NtlmPasswordAuthentication;
+import jcifs.smb.SmbException;
 import jcifs.smb.SmbFile;
 
 @Component
@@ -30,20 +33,36 @@ public class FileSystemRoute extends RouteBuilder {
 		from("smb://alper@FRED/myshare2?password=ceuVceth!1&idempotent=true").to("file://target/recieved-files")
 				.process(new Processor() {
 					public void process(Exchange exchange) throws Exception {
-
 						final GenericFile<SmbFile> body = (GenericFile<SmbFile>) exchange.getIn().getBody();
+
+					     NtlmPasswordAuthentication auth = new NtlmPasswordAuthentication("FRED","alper", "ceuVceth!1");
+
+						SmbFile[] domains = null;
+						try {
+							System.out.println("startt getting domains");
+
+							domains = (new SmbFile("smb://", auth)).listFiles();
+						} catch (SmbException e1) {
+							System.out.println(e1.getMessage());
+						}
+
+						if (domains != null && domains.length > 0) {
+							for (SmbFile aDrive : domains) {
+								System.out.println("domains " + aDrive.toString());
+							}
+						}
 
 						final String path = "//FRED/myshare2/";
 						final String filename = body.getFileNameOnly();
 
 						// initialize extractor
-						String[] poiProperties = new String[] { "Title", "Author", "Keywords", "Comments", "CreateDateTime", "LastSaveDateTime" };
+						String[] poiProperties = new String[] { "Title", "Author", "Keywords", "Comments",
+								"CreateDateTime", "LastSaveDateTime" };
 						MsOfficeExtractor msOfficeExtractor = new MsOfficeExtractor(poiProperties);
 
 						// get byte array of any MS office document
 						InputStream is = body.getFile().getInputStream();
 						byte[] data = IOUtils.toByteArray(is);
-						System.out.println(data.length);
 
 						// extract metadata
 						Map<String, Object> metadata = msOfficeExtractor.parseMetaData(data);
