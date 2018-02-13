@@ -1,9 +1,10 @@
 package com.koniag.MSExchange.camelExchange.CamelExchangeMain.camelRoutes;
 
 import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collection;
+import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.UUID;
@@ -13,10 +14,15 @@ import org.apache.camel.Exchange;
 import org.apache.camel.Processor;
 import org.apache.camel.builder.RouteBuilder;
 import org.apache.camel.component.file.GenericFile;
+import org.apache.camel.component.file.GenericFileFilter;
 import org.apache.commons.io.IOUtils;
 import org.apache.commons.lang.StringUtils;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.ApplicationContext;
 import org.springframework.stereotype.Component;
 
+import com.koniag.MSExchange.camelExchange.CamelExchangeMain.model.EDiscoveryDocument;
 import com.koniag.MSExchange.camelExchange.CamelExchangeMain.service.MsOfficeExtractor;
 import jcifs.smb.NtlmPasswordAuthentication;
 import jcifs.smb.SmbException;
@@ -30,11 +36,11 @@ public class FileSystemRoute extends RouteBuilder {
 
 	@Override
 	public void configure() throws Exception {
-		String domainName = "FRED";
+		String domainName = "AMER;devsu@cscgsxaus1v15/public/";
 
-		String pass = "ceuVceth!1";
+		String pass = "C$C123$dev";
 
-		String user = "alper@FRED";
+		String user = "AMER;devsu";
 
 		NtlmPasswordAuthentication auth = new NtlmPasswordAuthentication(domainName, user, pass);
 
@@ -42,41 +48,49 @@ public class FileSystemRoute extends RouteBuilder {
 
 		try {
 			logger.info("Finding all shared drives...");
-			SmbFile file = new SmbFile("smb://alper@FRED/", auth);
+			SmbFile file = new SmbFile("smb://AMER;devsu:C$C123$dev@cscgsxaus1v15/");
 			domains = file.listFiles();
 
 		} catch (SmbException e1) {
 			logger.error("error " + e1.getMessage());
 		}
 
-		Set<String> domainSet = new ArrayList<SmbFile>(Arrays.asList(domains)).stream().filter(predicate->{
+		log.debug("found: " + domains.length + " SMBFiles. Will remove ones with $");
+
+		new ArrayList<SmbFile>(Arrays.asList(domains)).stream().forEach(d -> logger.debug(d.getPath()));
+
+		Set<String> domainSet = new ArrayList<SmbFile>(Arrays.asList(domains)).stream().filter(predicate -> {
 			try {
 				return predicate.canRead();
 			} catch (Exception e) {
-				logger.debug("Cannot read"+predicate.getPath());
+				logger.warn("Cannot read" + predicate.getPath());
 				return false;
 			}
-			
-		}).map(mapper -> mapper.getPath())
-				.filter(p -> StringUtils.containsNone(p, "$")).collect(Collectors.toSet());
 
-		domainSet.stream().forEach(d -> logger.debug(d));
+		}).map(mapper -> mapper.getPath()).filter(p -> !StringUtils.endsWith(p, "$/")).collect(Collectors.toSet());
+
+		domainSet.stream().forEach(d -> logger.debug("Will scan: " + d));
 
 		logger.debug("End getting domains.");
 
-		logger.debug("Begin setting up camel routes based upon collected domains.");
+		if (domainSet.size() > 0)
+			logger.debug("Begin setting up camel routes based upon collected domains.");
+		else
+			logger.debug("no domains :(");
 
 		domainSet.forEach(d -> {
-			
+
 			String routeId = UUID.randomUUID().toString();
-			
+
 			// from("smb://AMER;devsu:C$C123$dev@cscgsxaus1v15/public/amertest").to("file://target/recieved-files");
-			from(d+"?password=ceuVceth!1&idempotent=true").to("file://target/recieved-files/"+routeId)
-					.process(new Processor() {
+			from(d + "?password=C$C123$dev&idempotent=true&filter=#officeDocumentFilter")
+					.to("file://target/recieved-files/" + routeId).process(new Processor() {
 						public void process(Exchange exchange) throws Exception {
+
 							final GenericFile<SmbFile> body = (GenericFile<SmbFile>) exchange.getIn().getBody();
 
 							body.getFileNameOnly();
+							logger.debug(body.getFileNameOnly());
 
 							// initialize extractor
 							String[] poiProperties = new String[] { "Title", "Author", "Keywords", "Comments",
@@ -84,8 +98,7 @@ public class FileSystemRoute extends RouteBuilder {
 							MsOfficeExtractor msOfficeExtractor = new MsOfficeExtractor(poiProperties);
 
 							// get byte array of any MS office document
-							InputStream is = body.getFile().getInputStream();
-							byte[] data = IOUtils.toByteArray(is);
+							byte[] data = IOUtils.toByteArray(body.getFile().getInputStream());
 
 							// extract metadata
 							Map<String, Object> metadata = msOfficeExtractor.parseMetaData(data);
@@ -100,8 +113,9 @@ public class FileSystemRoute extends RouteBuilder {
 							logger.info("Comments: " + metadata.get("Comments"));
 							logger.info("CreateDateTime: " + metadata.get("CreateDateTime"));
 							logger.info("LastSaveDateTime: " + metadata.get("LastSaveDateTime"));
+
 						}
-					}).end().setId("read da file"+routeId);
+					}).end().setId("read da file" + routeId);
 
 		});
 
@@ -185,4 +199,7 @@ public class FileSystemRoute extends RouteBuilder {
 	 * // Always close PowerShell session to free resources. // if (powerShell !=
 	 * null) // powerShell.close(); // }
 	 */
+
+	// START SNIPPET: e1
+
 }

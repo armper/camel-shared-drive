@@ -1,9 +1,2 @@
-[INFO ] 2018-02-11 09:46:34.014 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: 
-[INFO ] 2018-02-11 09:46:34.020 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: Tue Oct 12 05:34:00 EDT 2004
-[INFO ] 2018-02-11 09:46:34.020 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: Mon Oct 25 13:10:00 EDT 2004
-[INFO ] 2018-02-11 09:46:34.024 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Title: null
-[INFO ] 2018-02-11 09:46:34.024 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Author: null
-[INFO ] 2018-02-11 09:46:34.024 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Keywords: null
-[INFO ] 2018-02-11 09:46:34.024 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - Comments: null
-[INFO ] 2018-02-11 09:46:34.024 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - CreateDateTime: null
-[INFO ] 2018-02-11 09:46:34.024 [Camel (camel-1) thread #2 - smb://alper@FRED/myshare2/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-13 09:53:08.710 [Camel (camel-1) thread #1 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/amertest] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-13 09:53:08.715 [Camel (camel-1) thread #1 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/amertest] FileSystemRoute - LastSaveDateTime: null

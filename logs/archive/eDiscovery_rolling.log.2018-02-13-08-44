@@ -1,0 +1,9 @@
+[INFO ] 2018-02-13 08:44:11.807 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-13 08:44:11.812 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-13 08:44:11.812 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-13 08:44:18.434 [main] EDiscoveryDocumentRepositoryTest - Starting EDiscoveryDocumentRepositoryTest on Fred with PID 6900 (started by armando in C:\Users\armando\Camel-Exchange-Main)
+[DEBUG] 2018-02-13 08:44:18.435 [main] EDiscoveryDocumentRepositoryTest - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+[INFO ] 2018-02-13 08:44:18.435 [main] EDiscoveryDocumentRepositoryTest - The following profiles are active: local
+[INFO ] 2018-02-13 08:44:22.374 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 08:44:36.493 [main] MsOfficeExtractorTest - Title: null
+[INFO ] 2018-02-13 08:44:36.496 [main] MsOfficeExtractorTest - Author: null

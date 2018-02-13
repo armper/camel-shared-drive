@@ -9,4 +9,5 @@ public class CamelExchangeMainApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CamelExchangeMainApplication.class, args);
 	}
+
 }

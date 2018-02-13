@@ -1,0 +1,5 @@
+spring:
+    profiles:
+     active: local
+     
+office-document-types: doc, docx, docm, xls, xlsm, xlsx, potm, ppt, pptx, csv

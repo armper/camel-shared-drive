@@ -1,0 +1,14 @@
+elasticsearch:
+  clustername: koniag-cluster
+  host: http://127.0.0.1
+  port: 9300
+  
+spring:
+  data:
+    elasticsearch:
+      properties:
+        path:
+          home: target/elastic-embedded
+        transport:
+          tcp:
+            connect_timeout: 60s
