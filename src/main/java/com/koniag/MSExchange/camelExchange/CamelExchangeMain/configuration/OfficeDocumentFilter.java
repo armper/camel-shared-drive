@@ -16,6 +16,7 @@ public class OfficeDocumentFilter<SmbFile> implements GenericFileFilter<SmbFile>
 		Collection<String> collection = Arrays.asList(officeDocumentTypes);
 
 		return collection.stream()
-				.anyMatch(officeDocumentType -> StringUtils.endsWithIgnoreCase(file.getFileName(), officeDocumentType));
+				.anyMatch(officeDocumentType -> StringUtils.endsWithIgnoreCase(file.getFileName(), officeDocumentType)
+						&& !StringUtils.startsWith(file.getFileName(), "~$"));
 	}
 }

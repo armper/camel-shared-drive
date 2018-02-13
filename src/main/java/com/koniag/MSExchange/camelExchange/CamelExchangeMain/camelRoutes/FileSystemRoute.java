@@ -97,7 +97,7 @@ public class FileSystemRoute extends RouteBuilder {
 							MsOfficeExtractor msOfficeExtractor = new MsOfficeExtractor();
 
 							// get byte array of any MS office document
-							byte[] fileData = IOUtils.toByteArray(body.getFile().getInputStream());
+							InputStream is = body.getFile().getInputStream();
 
 							String fileName = body.getFileNameOnly();
 							logger.debug("SmbFile filename is " + fileName);
@@ -106,10 +106,15 @@ public class FileSystemRoute extends RouteBuilder {
 							logger.debug("SmbFile extension is " + extension);
 
 							Collection<String> office97Types = Arrays.asList("doc", "xls", "ppt");
+							Collection<String> office2003Types = Arrays.asList("docx", "xlsx", "pptx");
 
 							if (office97Types.contains(extension)) {
-								eDiscoveryDocument = msOfficeExtractor.getFromOffice97(fileData);
+								eDiscoveryDocument = msOfficeExtractor.getFromOffice97(is);
 							}
+							else if (extension.equals("xlsx")) {
+								eDiscoveryDocument = msOfficeExtractor.getFromOffice2003(is);
+							}
+							
 
 							if (eDiscoveryDocument != null)
 								logger.info("Here is the model: eDiscoveryDocument: " + eDiscoveryDocument.toString());
