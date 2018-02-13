@@ -1,7 +1,0 @@
-[INFO ] 2018-02-12 12:07:49.346 [Camel (camel-1) thread #5 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/pmi-calc-log/] FileSystemRoute - Keywords: null
-[INFO ] 2018-02-12 12:07:49.352 [Camel (camel-1) thread #5 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/pmi-calc-log/] FileSystemRoute - Comments: null
-[INFO ] 2018-02-12 12:07:49.353 [Camel (camel-1) thread #5 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/pmi-calc-log/] FileSystemRoute - CreateDateTime: null
-[INFO ] 2018-02-12 12:07:49.353 [Camel (camel-1) thread #5 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/pmi-calc-log/] FileSystemRoute - LastSaveDateTime: null
-[INFO ] 2018-02-12 12:09:49.147 [main] EDiscoveryDocumentRepositoryTest - Starting EDiscoveryDocumentRepositoryTest on Fred with PID 81220 (started by armando in C:\Users\armando\Camel-Exchange-Main)
-[DEBUG] 2018-02-12 12:09:49.147 [main] EDiscoveryDocumentRepositoryTest - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
-[INFO ] 2018-02-12 12:09:49.148 [main] EDiscoveryDocumentRepositoryTest - The following profiles are active: local
