@@ -1,1 +1,9 @@
-[INFO ] 2018-02-13 15:34:18.494 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=Armando Perea, title=testtit, keywords=testtag, comments=null, createDateTime=Tue Feb 13 11:38:34 EST 2018, lastSaveDateTime=Tue Feb 13 11:39:50 EST 2018)
+[DEBUG] 2018-02-13 16:07:30.429 [main] FileSystemRoute - Will scan: smb://AMER;devsu:C$C123$dev@cscgsxaus1v15/appSub-archive/
+[DEBUG] 2018-02-13 16:07:30.434 [main] FileSystemRoute - Will scan: smb://AMER;devsu:C$C123$dev@cscgsxaus1v15/App Setup Files/
+[DEBUG] 2018-02-13 16:07:30.434 [main] FileSystemRoute - Will scan: smb://AMER;devsu:C$C123$dev@cscgsxaus1v15/pmi-calc-log/
+[DEBUG] 2018-02-13 16:07:30.434 [main] FileSystemRoute - Will scan: smb://AMER;devsu:C$C123$dev@cscgsxaus1v15/Hostbridge/
+[DEBUG] 2018-02-13 16:07:30.434 [main] FileSystemRoute - Will scan: smb://AMER;devsu:C$C123$dev@cscgsxaus1v15/public/
+[DEBUG] 2018-02-13 16:07:30.435 [main] FileSystemRoute - Will scan: smb://AMER;devsu:C$C123$dev@cscgsxaus1v15/team-shares/
+[DEBUG] 2018-02-13 16:07:30.435 [main] FileSystemRoute - End getting domains.
+[DEBUG] 2018-02-13 16:07:30.435 [main] FileSystemRoute - Begin setting up camel routes based upon collected domains.
+[INFO ] 2018-02-13 16:07:30.719 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 13.456 seconds (JVM running for 16.0)

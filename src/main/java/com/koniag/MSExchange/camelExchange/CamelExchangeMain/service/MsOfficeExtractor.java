@@ -175,13 +175,13 @@ public class MsOfficeExtractor {
 			System.out.println("" + pItem.getLpwstr());
 
 		}
-		
+
 		eDiscoveryDocument.setTitle("" + coreProp.getTitle());
 		eDiscoveryDocument.setAuthor("" + coreProp.getCreator());
 		eDiscoveryDocument.setKeywords("" + coreProp.getKeywords());
-		eDiscoveryDocument.setComments("none :(" );
+		eDiscoveryDocument.setComments("none :(");
 		eDiscoveryDocument.setCreateDateTime("" + coreProp.getCreated());
-		eDiscoveryDocument.setLastSaveDateTime("" +  coreProp.getModified());
+		eDiscoveryDocument.setLastSaveDateTime("" + coreProp.getModified());
 
 		return eDiscoveryDocument;
 	}

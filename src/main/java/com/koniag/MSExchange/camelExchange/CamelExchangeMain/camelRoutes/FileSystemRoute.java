@@ -26,6 +26,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.stereotype.Component;
 
 import com.koniag.MSExchange.camelExchange.CamelExchangeMain.model.EDiscoveryDocument;
+import com.koniag.MSExchange.camelExchange.CamelExchangeMain.repositories.EDiscoveryDocumentRepository;
 import com.koniag.MSExchange.camelExchange.CamelExchangeMain.service.MsOfficeExtractor;
 import jcifs.smb.NtlmPasswordAuthentication;
 import jcifs.smb.SmbException;
@@ -36,6 +37,13 @@ import org.apache.logging.log4j.Logger;
 @Component
 public class FileSystemRoute extends RouteBuilder {
 	private static Logger logger = LogManager.getLogger();
+	private final EDiscoveryDocumentRepository eDiscoveryDocumentRepository;
+
+	@Autowired
+	public FileSystemRoute(EDiscoveryDocumentRepository eDiscoveryDocumentRepository) {
+		super();
+		this.eDiscoveryDocumentRepository = eDiscoveryDocumentRepository;
+	}
 
 	@Override
 	public void configure() throws Exception {
@@ -86,8 +94,9 @@ public class FileSystemRoute extends RouteBuilder {
 			String routeId = UUID.randomUUID().toString();
 
 			// from("smb://AMER;devsu:C$C123$dev@cscgsxaus1v15/public/amertest").to("file://target/recieved-files");
-			from(d + "?password=C$C123$dev&idempotent=true&filter=#officeDocumentFilter")
+			from(d + "?password=C$C123$dev&idempotent=true&filter=#officeDocumentFilter&recursive=true")
 					.to("file://target/recieved-files/" + routeId).process(new Processor() {
+
 						public void process(Exchange exchange) throws Exception {
 
 							final GenericFile<SmbFile> body = (GenericFile<SmbFile>) exchange.getIn().getBody();
@@ -110,20 +119,40 @@ public class FileSystemRoute extends RouteBuilder {
 
 							if (office97Types.contains(extension)) {
 								eDiscoveryDocument = msOfficeExtractor.getFromOffice97(is);
-							}
-							else if (extension.equals("xlsx")) {
+							} else if (extension.equals("xlsx")) {
 								eDiscoveryDocument = msOfficeExtractor.getFromOffice2003(is);
 							}
-							
 
-							if (eDiscoveryDocument != null)
+							if (eDiscoveryDocument != null) {
 								logger.info("Here is the model: eDiscoveryDocument: " + eDiscoveryDocument.toString());
-							else
+								eDiscoveryDocumentRepository.save(eDiscoveryDocument);
+
+								logger.info("in db: "
+										+ eDiscoveryDocumentRepository.findOne(eDiscoveryDocument.getId()).toString());
+							} else
 								logger.info("File extension " + extension
 										+ " is not implemented, or there was no data found in the document.");
 
 						}
-					}).end().setId("read da file" + routeId);
+					}).end().process(new Processor() {
+
+						@Override
+						public void process(Exchange exchange) throws Exception {
+							exchange.getIn().getBody();
+							log.info("--------Report--------");
+							Collection<EDiscoveryDocument> byAuthor = eDiscoveryDocumentRepository.findByAuthor("Armando Perea");
+							byAuthor.stream().forEach(a->{
+								log.info("Titles by Armando Perea:"+a.getTitle());
+							});
+							
+							Iterable<EDiscoveryDocument> findAllSortByTitle = eDiscoveryDocumentRepository.findAll();
+							
+							findAllSortByTitle.forEach(a->{
+								log.info(a.getAuthor()+" authored title: "+a.getTitle());
+							});
+							
+						}
+					}).setId("read da file" + routeId);
 
 		});
 
@@ -207,6 +236,10 @@ public class FileSystemRoute extends RouteBuilder {
 	 * // Always close PowerShell session to free resources. // if (powerShell !=
 	 * null) // powerShell.close(); // }
 	 */
+
+	public EDiscoveryDocumentRepository geteDiscoveryDocumentRepository() {
+		return eDiscoveryDocumentRepository;
+	}
 
 	// START SNIPPET: e1
 
