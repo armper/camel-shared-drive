@@ -4,6 +4,8 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collection;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
@@ -15,6 +17,7 @@ import org.apache.camel.Processor;
 import org.apache.camel.builder.RouteBuilder;
 import org.apache.camel.component.file.GenericFile;
 import org.apache.camel.component.file.GenericFileFilter;
+import org.apache.commons.io.FilenameUtils;
 import org.apache.commons.io.IOUtils;
 import org.apache.commons.lang.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -89,30 +92,30 @@ public class FileSystemRoute extends RouteBuilder {
 
 							final GenericFile<SmbFile> body = (GenericFile<SmbFile>) exchange.getIn().getBody();
 
-							body.getFileNameOnly();
-							logger.debug(body.getFileNameOnly());
+							EDiscoveryDocument eDiscoveryDocument = null;
 
-							// initialize extractor
-							String[] poiProperties = new String[] { "Title", "Author", "Keywords", "Comments",
-									"CreateDateTime", "LastSaveDateTime" };
-							MsOfficeExtractor msOfficeExtractor = new MsOfficeExtractor(poiProperties);
+							MsOfficeExtractor msOfficeExtractor = new MsOfficeExtractor();
 
 							// get byte array of any MS office document
-							byte[] data = IOUtils.toByteArray(body.getFile().getInputStream());
+							byte[] fileData = IOUtils.toByteArray(body.getFile().getInputStream());
 
-							// extract metadata
-							Map<String, Object> metadata = msOfficeExtractor.parseMetaData(data);
+							String fileName = body.getFileNameOnly();
+							logger.debug("SmbFile filename is " + fileName);
 
-							if (metadata == null) {
-								logger.info("Metadata null");
-								return;
+							String extension = FilenameUtils.getExtension(fileName);
+							logger.debug("SmbFile extension is " + extension);
+
+							Collection<String> office97Types = Arrays.asList("doc", "xls", "ppt");
+
+							if (office97Types.contains(extension)) {
+								eDiscoveryDocument = msOfficeExtractor.getFromOffice97(fileData);
 							}
-							logger.info("Title: " + metadata.get("Title"));
-							logger.info("Author: " + metadata.get("Author"));
-							logger.info("Keywords: " + metadata.get("Keywords"));
-							logger.info("Comments: " + metadata.get("Comments"));
-							logger.info("CreateDateTime: " + metadata.get("CreateDateTime"));
-							logger.info("LastSaveDateTime: " + metadata.get("LastSaveDateTime"));
+
+							if (eDiscoveryDocument != null)
+								logger.info("Here is the model: eDiscoveryDocument: " + eDiscoveryDocument.toString());
+							else
+								logger.info("File extension " + extension
+										+ " is not implemented, or there was no data found in the document.");
 
 						}
 					}).end().setId("read da file" + routeId);

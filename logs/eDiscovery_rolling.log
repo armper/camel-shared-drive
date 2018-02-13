@@ -1,2 +1,2 @@
-[INFO ] 2018-02-13 09:53:08.710 [Camel (camel-1) thread #1 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/amertest] FileSystemRoute - CreateDateTime: null
-[INFO ] 2018-02-13 09:53:08.715 [Camel (camel-1) thread #1 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/amertest] FileSystemRoute - LastSaveDateTime: null
+[DEBUG] 2018-02-13 11:45:17.238 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - SmbFile extension is ppt
+[INFO ] 2018-02-13 11:45:17.247 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=Armando Perea, title=testtit, keywords=testtag, comments=null, createDateTime=Tue Feb 13 11:38:34 EST 2018, lastSaveDateTime=Tue Feb 13 11:39:50 EST 2018)

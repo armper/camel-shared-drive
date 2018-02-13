@@ -42,7 +42,7 @@ public class EDiscoveryDocumentRepositoryTest {
 		EDiscoveryDocument eDiscoveryDocument = new EDiscoveryDocument();
 		eDiscoveryDocument.setId(testId);
 		eDiscoveryDocument.setTitle("test title");
-		eDiscoveryDocument.setBody("test 123 derp haha");
+		eDiscoveryDocument.setKeywords("test 123 derp haha");
 		
 		eDiscoveryDocumentRepository.save(eDiscoveryDocument);
 		

@@ -18,5 +18,11 @@ public class EDiscoveryDocument {
 	
 	public String title;
 	
-	public String body;
+	public String keywords;
+	
+	public String comments;
+	
+	public String createDateTime;
+	
+	public String lastSaveDateTime;
 }

@@ -5549,3 +5549,214 @@
 [INFO ] 2018-02-13 09:53:08.710 [Camel (camel-1) thread #1 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/amertest] FileSystemRoute - Comments: null
 [INFO ] 2018-02-13 09:53:08.710 [Camel (camel-1) thread #1 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/amertest] FileSystemRoute - CreateDateTime: null
 [INFO ] 2018-02-13 09:53:08.715 [Camel (camel-1) thread #1 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/amertest] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-13 10:13:20.983 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 14944 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-13 10:13:20.983 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-13 10:13:25.247 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 10:13:34.133 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 13.571 seconds (JVM running for 16.146)
+[INFO ] 2018-02-13 10:13:40.420 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Title: null
+[INFO ] 2018-02-13 10:13:40.421 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Author: null
+[INFO ] 2018-02-13 10:13:40.421 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-13 10:13:40.421 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-13 10:13:40.421 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-13 10:13:40.425 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-13 10:13:40.807 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Title: END-USER LICENSE AGREEMENT FOR MICROSOFT SOFTWARE
+[INFO ] 2018-02-13 10:13:40.807 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Author: deborahd
+[INFO ] 2018-02-13 10:13:40.808 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Keywords: 
+[INFO ] 2018-02-13 10:13:40.808 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Comments: 
+[INFO ] 2018-02-13 10:13:40.808 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - CreateDateTime: Tue Oct 12 05:34:00 EDT 2004
+[INFO ] 2018-02-13 10:13:40.808 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - LastSaveDateTime: Mon Oct 25 13:10:00 EDT 2004
+[INFO ] 2018-02-13 10:14:39.078 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Title: null
+[INFO ] 2018-02-13 10:14:39.078 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Author: null
+[INFO ] 2018-02-13 10:14:39.078 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-13 10:14:39.078 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-13 10:14:39.079 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-13 10:14:39.079 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-13 10:15:27.338 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Title: test title
+[INFO ] 2018-02-13 10:15:27.343 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Author: deborahd
+[INFO ] 2018-02-13 10:15:27.343 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Keywords: hi
+[INFO ] 2018-02-13 10:15:27.343 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Comments: 
+[INFO ] 2018-02-13 10:15:27.343 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - CreateDateTime: Tue Oct 12 10:34:00 EDT 2004
+[INFO ] 2018-02-13 10:15:27.345 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - LastSaveDateTime: Tue Feb 13 10:15:00 EST 2018
+[INFO ] 2018-02-13 10:15:46.187 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Title: null
+[INFO ] 2018-02-13 10:15:46.190 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Author: null
+[INFO ] 2018-02-13 10:15:46.196 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-13 10:15:46.196 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-13 10:15:46.196 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-13 10:15:46.196 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-13 10:16:04.499 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Title: null
+[INFO ] 2018-02-13 10:16:04.499 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Author: null
+[INFO ] 2018-02-13 10:16:04.499 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-13 10:16:04.505 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-13 10:16:04.505 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-13 10:16:04.505 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-13 10:16:05.164 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Title: null
+[INFO ] 2018-02-13 10:16:05.164 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Author: null
+[INFO ] 2018-02-13 10:16:05.164 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-13 10:16:05.164 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-13 10:16:05.167 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-13 10:16:05.173 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-13 10:16:15.352 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Title: null
+[INFO ] 2018-02-13 10:16:15.352 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Author: null
+[INFO ] 2018-02-13 10:16:15.352 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-13 10:16:15.352 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-13 10:16:15.352 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-13 10:16:15.352 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-13 10:16:23.649 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Title: null
+[INFO ] 2018-02-13 10:16:23.649 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Author: null
+[INFO ] 2018-02-13 10:16:23.649 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-13 10:16:23.649 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-13 10:16:23.650 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-13 10:16:23.650 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-13 10:16:48.931 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Title: null
+[INFO ] 2018-02-13 10:16:48.934 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Author: null
+[INFO ] 2018-02-13 10:16:48.940 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-13 10:16:48.940 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-13 10:16:48.940 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-13 10:16:48.940 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-13 10:16:50.145 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Title: null
+[INFO ] 2018-02-13 10:16:50.145 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Author: null
+[INFO ] 2018-02-13 10:16:50.145 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Keywords: null
+[INFO ] 2018-02-13 10:16:50.148 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Comments: null
+[INFO ] 2018-02-13 10:16:50.154 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - CreateDateTime: null
+[INFO ] 2018-02-13 10:16:50.154 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - LastSaveDateTime: null
+[INFO ] 2018-02-13 10:30:47.508 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 11928 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-13 10:30:47.509 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-13 10:30:52.701 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 10:31:01.679 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 14.664 seconds (JVM running for 17.563)
+[INFO ] 2018-02-13 10:34:35.652 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 3692 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-13 10:34:35.664 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-13 10:34:40.736 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 10:34:49.694 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 14.533 seconds (JVM running for 17.434)
+[INFO ] 2018-02-13 10:35:51.514 [rebel-change-detector-thread] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 10:35:53.354 [Camel (camel-1) thread #16 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - nothing found
+[INFO ] 2018-02-13 10:35:53.680 [Camel (camel-1) thread #16 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - nothing found
+[INFO ] 2018-02-13 10:36:05.087 [Camel (camel-1) thread #16 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - nothing found
+[INFO ] 2018-02-13 10:36:06.046 [camel-reloader-camel-1] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 10:36:10.229 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - nothing found
+[INFO ] 2018-02-13 10:36:10.627 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - nothing found
+[INFO ] 2018-02-13 10:36:13.831 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - nothing found
+[INFO ] 2018-02-13 10:36:14.160 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - nothing found
+[INFO ] 2018-02-13 10:36:14.578 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - nothing found
+[INFO ] 2018-02-13 10:36:15.010 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - nothing found
+[INFO ] 2018-02-13 10:36:41.520 [rebel-change-detector-thread] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 10:36:43.182 [Camel (camel-1) thread #32 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension docx is not implement.
+[INFO ] 2018-02-13 10:36:43.517 [Camel (camel-1) thread #32 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension docx is not implement.
+[INFO ] 2018-02-13 10:36:48.930 [Camel (camel-1) thread #32 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension CSV is not implement.
+[INFO ] 2018-02-13 10:36:49.838 [camel-reloader-camel-1] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 10:36:51.377 [Camel (camel-1) thread #40 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension docx is not implement.
+[INFO ] 2018-02-13 10:36:51.727 [Camel (camel-1) thread #40 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension docx is not implement.
+[INFO ] 2018-02-13 10:36:55.080 [Camel (camel-1) thread #40 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension CSV is not implement.
+[INFO ] 2018-02-13 10:36:55.370 [Camel (camel-1) thread #40 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension docx is not implement.
+[INFO ] 2018-02-13 10:36:55.826 [Camel (camel-1) thread #40 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension doc is not implement.
+[INFO ] 2018-02-13 10:36:56.263 [Camel (camel-1) thread #40 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension doc is not implement.
+[INFO ] 2018-02-13 10:38:21.541 [rebel-change-detector-thread] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 10:38:22.074 [camel-reloader-camel-1] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 10:38:23.614 [Camel (camel-1) thread #57 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension docx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:38:23.938 [Camel (camel-1) thread #57 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension docx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:38:35.220 [Camel (camel-1) thread #57 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension CSV is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:38:35.544 [Camel (camel-1) thread #57 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension docx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:38:35.939 [Camel (camel-1) thread #57 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension doc is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:38:36.373 [Camel (camel-1) thread #57 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension doc is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:39:18.229 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 5512 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-13 10:39:18.238 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-13 10:39:23.308 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 10:39:32.242 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 14.52 seconds (JVM running for 17.6)
+[INFO ] 2018-02-13 10:39:33.599 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension docx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:39:33.901 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension docx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:39:39.150 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension CSV is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:39:39.449 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension docx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:39:39.848 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension doc is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:39:40.275 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension doc is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:40:37.354 [rebel-change-detector-thread] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 10:40:47.242 [Camel (camel-1) thread #16 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension docx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:40:47.587 [Camel (camel-1) thread #16 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension docx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:40:50.677 [Camel (camel-1) thread #16 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension CSV is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:40:50.714 [camel-reloader-camel-1] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 10:40:54.449 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension docx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:40:54.759 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension docx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:40:57.812 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension CSV is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:40:58.156 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension docx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:40:58.578 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension doc is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:40:58.984 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension doc is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:41:45.646 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 9284 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-13 10:41:45.647 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-13 10:41:50.429 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 10:41:59.384 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 14.22 seconds (JVM running for 17.097)
+[INFO ] 2018-02-13 10:42:00.735 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension docx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:42:01.050 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension docx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:42:06.320 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension CSV is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:42:06.626 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension docx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:42:07.069 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=deborahd, title=null, body=null)
+[INFO ] 2018-02-13 10:42:07.480 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=deborahd, title=null, body=null)
+[INFO ] 2018-02-13 10:47:28.196 [rebel-change-detector-thread] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 10:47:28.664 [camel-reloader-camel-1] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 10:47:30.227 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension docx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:47:30.585 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension docx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:47:41.909 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension CSV is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:47:42.204 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension docx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:47:42.617 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=deborahd, title=null, body=null)
+[INFO ] 2018-02-13 10:47:43.023 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=deborahd, title=null, body=null)
+[INFO ] 2018-02-13 10:48:17.352 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension xlsx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:48:19.116 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension xlsx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:48:24.224 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension xlsx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:48:58.713 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=, title=null, body=null)
+[INFO ] 2018-02-13 10:49:52.252 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension xlsx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:49:57.411 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=, title=null, body=null)
+[INFO ] 2018-02-13 10:50:17.470 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=, title=null, body=null)
+[INFO ] 2018-02-13 10:50:48.929 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=, title=null, body=null)
+[INFO ] 2018-02-13 10:51:40.714 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=, title=null, body=null)
+[INFO ] 2018-02-13 10:55:04.315 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 13948 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-13 10:55:04.324 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-13 10:55:09.193 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 10:55:18.130 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 14.29 seconds (JVM running for 17.155)
+[INFO ] 2018-02-13 10:55:24.486 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension CSV is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 10:55:24.842 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=, title=null, body=null)
+[INFO ] 2018-02-13 10:55:25.162 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=, title=null, body=null)
+[INFO ] 2018-02-13 10:55:25.581 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=deborahd, title=null, body=null)
+[INFO ] 2018-02-13 10:55:25.986 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=deborahd, title=null, body=null)
+[INFO ] 2018-02-13 11:31:27.571 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 12308 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-13 11:31:27.579 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-13 11:31:32.458 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 11:31:41.392 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 14.308 seconds (JVM running for 17.172)
+[INFO ] 2018-02-13 11:31:47.736 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension CSV is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 11:31:48.808 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=deborahd, title=test title, keywords=hi, comments=, createDateTime=Tue Oct 12 10:34:00 EDT 2004, lastSaveDateTime=Tue Feb 13 10:15:00 EST 2018)
+[INFO ] 2018-02-13 11:31:49.212 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=deborahd, title=test title, keywords=hi, comments=, createDateTime=Tue Oct 12 10:34:00 EDT 2004, lastSaveDateTime=Tue Feb 13 10:15:00 EST 2018)
+[INFO ] 2018-02-13 11:37:13.758 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 3624 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-13 11:37:13.759 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-13 11:37:18.595 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 11:37:27.568 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 14.28 seconds (JVM running for 17.138)
+[INFO ] 2018-02-13 11:37:33.930 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension CSV is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 11:37:34.314 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=, title=fdsfds, keywords=fdsfds, comments=null, createDateTime=Fri Jun 05 14:17:20 EDT 2015, lastSaveDateTime=Tue Feb 13 10:53:00 EST 2018)
+[INFO ] 2018-02-13 11:37:34.632 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=, title=null, keywords=null, comments=null, createDateTime=Fri Jun 05 14:17:20 EDT 2015, lastSaveDateTime=Tue Feb 13 10:51:29 EST 2018)
+[INFO ] 2018-02-13 11:37:35.057 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=deborahd, title=test title, keywords=hi, comments=, createDateTime=Tue Oct 12 10:34:00 EDT 2004, lastSaveDateTime=Tue Feb 13 10:15:00 EST 2018)
+[INFO ] 2018-02-13 11:37:35.474 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=deborahd, title=test title, keywords=hi, comments=, createDateTime=Tue Oct 12 10:34:00 EDT 2004, lastSaveDateTime=Tue Feb 13 10:15:00 EST 2018)
+[INFO ] 2018-02-13 11:38:29.225 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension pptx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 11:38:41.898 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension pptx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 11:38:49.248 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=Armando Perea, title=, keywords=null, comments=null, createDateTime=Tue Feb 13 11:38:34 EST 2018, lastSaveDateTime=Tue Feb 13 11:38:46 EST 2018)
+[INFO ] 2018-02-13 11:38:49.399 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=null, title=null, keywords=null, comments=null, createDateTime=null, lastSaveDateTime=null)
+[INFO ] 2018-02-13 11:40:04.209 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension pptx is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 11:40:17.628 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=Armando Perea, title=testtit, keywords=testtag, comments=null, createDateTime=Tue Feb 13 11:38:34 EST 2018, lastSaveDateTime=Tue Feb 13 11:39:50 EST 2018)
+[INFO ] 2018-02-13 11:42:47.679 [rebel-change-detector-thread] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 11:42:52.163 [Camel (camel-1) thread #16 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension CSV is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 11:42:53.044 [camel-reloader-camel-1] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 11:43:05.694 [Camel (camel-1) thread #24 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension CSV is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 11:43:26.444 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 12240 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-13 11:43:26.445 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-13 11:43:31.260 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 11:43:40.239 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 14.273 seconds (JVM running for 17.112)
+[INFO ] 2018-02-13 11:43:46.509 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension CSV is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 11:43:46.836 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=null, title=null, keywords=null, comments=null, createDateTime=null, lastSaveDateTime=null)
+[INFO ] 2018-02-13 11:43:47.173 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=null, title=null, keywords=null, comments=null, createDateTime=null, lastSaveDateTime=null)
+[INFO ] 2018-02-13 11:43:47.581 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=null, title=null, keywords=null, comments=null, createDateTime=null, lastSaveDateTime=null)
+[INFO ] 2018-02-13 11:43:47.970 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=null, title=null, keywords=null, comments=null, createDateTime=null, lastSaveDateTime=null)
+[INFO ] 2018-02-13 11:43:48.838 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=null, title=null, keywords=null, comments=null, createDateTime=null, lastSaveDateTime=null)
+[INFO ] 2018-02-13 11:44:54.786 [main] CamelExchangeMainApplication - Starting CamelExchangeMainApplication on Fred with PID 9464 (C:\Users\armando\Camel-Exchange-Main\target\classes started by armando in C:\Users\armando\Camel-Exchange-Main)
+[INFO ] 2018-02-13 11:44:54.787 [main] CamelExchangeMainApplication - The following profiles are active: local
+[INFO ] 2018-02-13 11:44:59.573 [main] FileSystemRoute - Finding all shared drives...
+[INFO ] 2018-02-13 11:45:08.537 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 14.231 seconds (JVM running for 17.045)
+[INFO ] 2018-02-13 11:45:14.870 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - File extension CSV is not implemented, or there was no data found in the document.
+[INFO ] 2018-02-13 11:45:15.260 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=, title=fdsfds, keywords=fdsfds, comments=null, createDateTime=Fri Jun 05 14:17:20 EDT 2015, lastSaveDateTime=Tue Feb 13 10:53:00 EST 2018)
+[INFO ] 2018-02-13 11:45:15.587 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=, title=null, keywords=null, comments=null, createDateTime=Fri Jun 05 14:17:20 EDT 2015, lastSaveDateTime=Tue Feb 13 10:51:29 EST 2018)
+[INFO ] 2018-02-13 11:45:16.010 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=deborahd, title=test title, keywords=hi, comments=, createDateTime=Tue Oct 12 10:34:00 EDT 2004, lastSaveDateTime=Tue Feb 13 10:15:00 EST 2018)
+[INFO ] 2018-02-13 11:45:16.417 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=deborahd, title=test title, keywords=hi, comments=, createDateTime=Tue Oct 12 10:34:00 EDT 2004, lastSaveDateTime=Tue Feb 13 10:15:00 EST 2018)
+[INFO ] 2018-02-13 11:45:17.247 [Camel (camel-1) thread #7 - smb://AMER;devsu:xxxxxx@cscgsxaus1v15/public/] FileSystemRoute - Here is the model: eDiscoveryDocument: EDiscoveryDocument(id=null, author=Armando Perea, title=testtit, keywords=testtag, comments=null, createDateTime=Tue Feb 13 11:38:34 EST 2018, lastSaveDateTime=Tue Feb 13 11:39:50 EST 2018)
