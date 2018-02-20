@@ -1,12 +1,9 @@
-package com.koniag.MSExchange.camelExchange.CamelExchangeMain.camelRoutes;
+package com.PereaTechnologies.CamelExchange.CamelExchangeMain.camelRoutes;
 
 import java.io.InputStream;
-import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
-import java.util.HashSet;
-import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.UUID;
@@ -16,18 +13,17 @@ import org.apache.camel.Exchange;
 import org.apache.camel.Processor;
 import org.apache.camel.builder.RouteBuilder;
 import org.apache.camel.component.file.GenericFile;
-import org.apache.camel.component.file.GenericFileFilter;
 import org.apache.commons.io.FilenameUtils;
-import org.apache.commons.io.IOUtils;
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Value;
-import org.springframework.context.ApplicationContext;
 import org.springframework.stereotype.Component;
 
-import com.koniag.MSExchange.camelExchange.CamelExchangeMain.model.EDiscoveryDocument;
-import com.koniag.MSExchange.camelExchange.CamelExchangeMain.repositories.EDiscoveryDocumentRepository;
-import com.koniag.MSExchange.camelExchange.CamelExchangeMain.service.MsOfficeExtractor;
+import com.PereaTechnologies.CamelExchange.CamelExchangeMain.model.SearchFile;
+import com.PereaTechnologies.CamelExchange.CamelExchangeMain.model.SearchUser;
+import com.PereaTechnologies.CamelExchange.CamelExchangeMain.repositories.SearchFileRepository;
+import com.PereaTechnologies.CamelExchange.CamelExchangeMain.service.MsOfficeExtractor;
+import com.profesorfalken.wmi4java.WMI4Java;
+
 import jcifs.smb.NtlmPasswordAuthentication;
 import jcifs.smb.SmbException;
 import jcifs.smb.SmbFile;
@@ -37,29 +33,23 @@ import org.apache.logging.log4j.Logger;
 @Component
 public class FileSystemRoute extends RouteBuilder {
 	private static Logger logger = LogManager.getLogger();
-	private final EDiscoveryDocumentRepository eDiscoveryDocumentRepository;
+	private final SearchFileRepository searchFileRepository;
 
 	@Autowired
-	public FileSystemRoute(EDiscoveryDocumentRepository eDiscoveryDocumentRepository) {
+	public FileSystemRoute(SearchFileRepository eDiscoveryDocumentRepository) {
 		super();
-		this.eDiscoveryDocumentRepository = eDiscoveryDocumentRepository;
+		this.searchFileRepository = eDiscoveryDocumentRepository;
 	}
 
 	@Override
 	public void configure() throws Exception {
-		String domainName = "AMER;devsu@cscgsxaus1v15/public/";
-
-		String pass = "C$C123$dev";
-
-		String user = "AMER;devsu";
-
-		NtlmPasswordAuthentication auth = new NtlmPasswordAuthentication(domainName, user, pass);
 
 		SmbFile[] domains = null;
 
 		try {
 			logger.info("Finding all shared drives...");
-			SmbFile file = new SmbFile("smb://AMER;devsu:C$C123$dev@cscgsxaus1v15/");
+//			SmbFile file = new SmbFile("smb://AMER;devsu:C$C123$dev@cscgsxaus1v15/");
+			SmbFile file = new SmbFile("smb://alper:ceuVceth!1@FRED/");
 			domains = file.listFiles();
 
 		} catch (SmbException e1) {
@@ -94,19 +84,12 @@ public class FileSystemRoute extends RouteBuilder {
 			String routeId = UUID.randomUUID().toString();
 
 			// from("smb://AMER;devsu:C$C123$dev@cscgsxaus1v15/public/amertest").to("file://target/recieved-files");
-			from(d + "?password=C$C123$dev&idempotent=true&filter=#officeDocumentFilter&recursive=true")
+			from(d + "?password=ceuVceth!1&idempotent=true&filter=#officeDocumentFilter&recursive=false&noop=true")
 					.to("file://target/recieved-files/" + routeId).process(new Processor() {
 
 						public void process(Exchange exchange) throws Exception {
 
 							final GenericFile<SmbFile> body = (GenericFile<SmbFile>) exchange.getIn().getBody();
-
-							EDiscoveryDocument eDiscoveryDocument = null;
-
-							MsOfficeExtractor msOfficeExtractor = new MsOfficeExtractor();
-
-							// get byte array of any MS office document
-							InputStream is = body.getFile().getInputStream();
 
 							String fileName = body.getFileNameOnly();
 							logger.debug("SmbFile filename is " + fileName);
@@ -114,45 +97,72 @@ public class FileSystemRoute extends RouteBuilder {
 							String extension = FilenameUtils.getExtension(fileName);
 							logger.debug("SmbFile extension is " + extension);
 
+							logger.debug("security "+body.getFile().getSecurity().toString());
+							//Example get processes named java.exe
+//						    Map<String, String> wmiObjectProperties = 
+//						        WMI4Java.get().filters(Arrays.asList("where name=\""+body.getAbsoluteFilePath()+"\"")).getWMIObject("CIM_DataFile");
+//						    
+//							log.debug("derp " + wmiObjectProperties.toString());
+
+							SearchFile searchFile = null;
+
+							MsOfficeExtractor msOfficeExtractor = new MsOfficeExtractor();
+
+							// get byte array of any MS office document
+							InputStream is = body.getFile().getInputStream();
+
 							Collection<String> office97Types = Arrays.asList("doc", "xls", "ppt");
 							Collection<String> office2003Types = Arrays.asList("docx", "xlsx", "pptx");
 
 							if (office97Types.contains(extension)) {
-								eDiscoveryDocument = msOfficeExtractor.getFromOffice97(is);
+								searchFile = msOfficeExtractor.getFromOffice97(is);
 							} else if (extension.equals("xlsx")) {
-								eDiscoveryDocument = msOfficeExtractor.getFromOffice2003(is);
+								searchFile = msOfficeExtractor.getFromOffice2003(is);
 							}
 
-							if (eDiscoveryDocument != null) {
-								logger.info("Here is the model: eDiscoveryDocument: " + eDiscoveryDocument.toString());
-								eDiscoveryDocumentRepository.save(eDiscoveryDocument);
+							if (searchFile != null) {
+								logger.info("Here is the model: eDiscoveryDocument: " + searchFile.toString());
+								
+								searchFile.setFileName(fileName);
+								searchFile.setExtension(extension);
+								
+								SearchUser createdBy=new SearchUser();
+								createdBy.setName("aperea");
+								
+								searchFile.setCreatedBy(createdBy);
+								
+								searchFileRepository.save(searchFile);
 
 								logger.info("in db: "
-										+ eDiscoveryDocumentRepository.findOne(eDiscoveryDocument.getId()).toString());
+										+ searchFileRepository.findOne(searchFile.getId()).toString());
 							} else
 								logger.info("File extension " + extension
 										+ " is not implemented, or there was no data found in the document.");
 
 						}
-					}).end().process(new Processor() {
-
-						@Override
-						public void process(Exchange exchange) throws Exception {
-							exchange.getIn().getBody();
-							log.info("--------Report--------");
-							Collection<EDiscoveryDocument> byAuthor = eDiscoveryDocumentRepository.findByAuthor("Armando Perea");
-							byAuthor.stream().forEach(a->{
-								log.info("Titles by Armando Perea:"+a.getTitle());
-							});
-							
-							Iterable<EDiscoveryDocument> findAllSortByTitle = eDiscoveryDocumentRepository.findAll();
-							
-							findAllSortByTitle.forEach(a->{
-								log.info(a.getAuthor()+" authored title: "+a.getTitle());
-							});
-							
-						}
-					}).setId("read da file" + routeId);
+					})
+					// .end().process(new Processor() {
+					//
+					// @Override
+					// public void process(Exchange exchange) throws Exception {
+					// exchange.getIn().getBody();
+					// log.info("--------Report--------");
+					// Collection<EDiscoveryDocument> byAuthor =
+					// eDiscoveryDocumentRepository.findByAuthor("Armando Perea");
+					// byAuthor.stream().forEach(a->{
+					// log.info("Titles by Armando Perea:"+a.getTitle());
+					// });
+					//
+					// Iterable<EDiscoveryDocument> findAllSortByTitle =
+					// eDiscoveryDocumentRepository.findAll();
+					//
+					// findAllSortByTitle.forEach(a->{
+					// log.info(a.getAuthor()+" authored title: "+a.getTitle());
+					// });
+					//
+					// }
+					// })
+					.end().setId("SMB_route_" + routeId);
 
 		});
 
@@ -237,8 +247,8 @@ public class FileSystemRoute extends RouteBuilder {
 	 * null) // powerShell.close(); // }
 	 */
 
-	public EDiscoveryDocumentRepository geteDiscoveryDocumentRepository() {
-		return eDiscoveryDocumentRepository;
+	public SearchFileRepository geteDiscoveryDocumentRepository() {
+		return searchFileRepository;
 	}
 
 	// START SNIPPET: e1

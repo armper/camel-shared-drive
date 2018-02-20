@@ -1,14 +1,8 @@
-package com.koniag.MSExchange.camelExchange.CamelExchangeMain.configuration;
-
-import java.io.IOException;
+package com.PereaTechnologies.CamelExchange.CamelExchangeMain.configuration;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
-import org.springframework.boot.env.YamlPropertySourceLoader;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.core.env.PropertySource;
-import org.springframework.core.io.ClassPathResource;
-
 import jcifs.smb.SmbFile;
 
 @Configuration

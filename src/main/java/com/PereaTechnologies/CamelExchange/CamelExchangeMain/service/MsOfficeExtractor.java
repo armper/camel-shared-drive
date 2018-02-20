@@ -1,4 +1,4 @@
-package com.koniag.MSExchange.camelExchange.CamelExchangeMain.service;
+package com.PereaTechnologies.CamelExchange.CamelExchangeMain.service;
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
@@ -23,7 +23,8 @@ import org.apache.poi.POIXMLProperties;
 import org.apache.poi.POIXMLProperties.*;
 import org.openxmlformats.schemas.officeDocument.x2006.customProperties.*;
 
-import com.koniag.MSExchange.camelExchange.CamelExchangeMain.model.EDiscoveryDocument;
+import com.PereaTechnologies.CamelExchange.CamelExchangeMain.model.OfficeDocument;
+import com.PereaTechnologies.CamelExchange.CamelExchangeMain.model.SearchFile;
 
 import jcifs.smb.SmbFile;
 import lombok.NonNull;
@@ -106,7 +107,7 @@ public class MsOfficeExtractor {
 		return metaDataListener.metaData;
 	}
 
-	public EDiscoveryDocument getFromOffice97(InputStream is) {
+	public SearchFile getFromOffice97(InputStream is) {
 		byte[] fileData = null;
 		try {
 			fileData = IOUtils.toByteArray(is);
@@ -116,20 +117,20 @@ public class MsOfficeExtractor {
 
 		Map<String, Object> metadata = this.parseMetaData(fileData);
 
-		EDiscoveryDocument eDiscoveryDocument = new EDiscoveryDocument();
+		OfficeDocument officeDocument = new OfficeDocument();
 
-		eDiscoveryDocument.setTitle("" + metadata.get("Title"));
-		eDiscoveryDocument.setAuthor("" + metadata.get("Author"));
-		eDiscoveryDocument.setKeywords("" + metadata.get("Keywords"));
-		eDiscoveryDocument.setComments("" + metadata.get("Comments"));
-		eDiscoveryDocument.setCreateDateTime("" + metadata.get("CreateDateTime"));
-		eDiscoveryDocument.setLastSaveDateTime("" + metadata.get("LastSaveDateTime"));
+		officeDocument.setTitle("" + metadata.get("Title"));
+		officeDocument.setAuthor("" + metadata.get("Author"));
+		officeDocument.setKeywords("" + metadata.get("Keywords"));
+		officeDocument.setComments("" + metadata.get("Comments"));
+		officeDocument.setCreateDateTime("" + metadata.get("CreateDateTime"));
+		officeDocument.setLastSaveDateTime("" + metadata.get("LastSaveDateTime"));
 
-		return eDiscoveryDocument;
+		return officeDocument;
 	}
 
-	public EDiscoveryDocument getFromOffice2003(InputStream is) {
-		EDiscoveryDocument eDiscoveryDocument = new EDiscoveryDocument();
+	public SearchFile getFromOffice2003(InputStream is) {
+		OfficeDocument eDiscoveryDocument = new OfficeDocument();
 
 		XSSFWorkbook readMetadata = null;
 		POIXMLProperties props;

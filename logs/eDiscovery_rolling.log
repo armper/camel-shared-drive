@@ -1,9 +1,5 @@
-[DEBUG] 2018-02-13 16:07:30.429 [main] FileSystemRoute - Will scan: smb://AMER;devsu:C$C123$dev@cscgsxaus1v15/appSub-archive/
-[DEBUG] 2018-02-13 16:07:30.434 [main] FileSystemRoute - Will scan: smb://AMER;devsu:C$C123$dev@cscgsxaus1v15/App Setup Files/
-[DEBUG] 2018-02-13 16:07:30.434 [main] FileSystemRoute - Will scan: smb://AMER;devsu:C$C123$dev@cscgsxaus1v15/pmi-calc-log/
-[DEBUG] 2018-02-13 16:07:30.434 [main] FileSystemRoute - Will scan: smb://AMER;devsu:C$C123$dev@cscgsxaus1v15/Hostbridge/
-[DEBUG] 2018-02-13 16:07:30.434 [main] FileSystemRoute - Will scan: smb://AMER;devsu:C$C123$dev@cscgsxaus1v15/public/
-[DEBUG] 2018-02-13 16:07:30.435 [main] FileSystemRoute - Will scan: smb://AMER;devsu:C$C123$dev@cscgsxaus1v15/team-shares/
-[DEBUG] 2018-02-13 16:07:30.435 [main] FileSystemRoute - End getting domains.
-[DEBUG] 2018-02-13 16:07:30.435 [main] FileSystemRoute - Begin setting up camel routes based upon collected domains.
-[INFO ] 2018-02-13 16:07:30.719 [main] CamelExchangeMainApplication - Started CamelExchangeMainApplication in 13.456 seconds (JVM running for 16.0)
+[DEBUG] 2018-02-20 10:33:08.329 [camel-reloader-camel-1] FileSystemRoute - Will scan: smb://alper:ceuVceth!1@FRED/Users/
+[DEBUG] 2018-02-20 10:33:08.339 [camel-reloader-camel-1] FileSystemRoute - Will scan: smb://alper:ceuVceth!1@FRED/myshare2/
+[DEBUG] 2018-02-20 10:33:08.339 [camel-reloader-camel-1] FileSystemRoute - Will scan: smb://alper:ceuVceth!1@FRED/pics/
+[DEBUG] 2018-02-20 10:33:08.339 [camel-reloader-camel-1] FileSystemRoute - End getting domains.
+[DEBUG] 2018-02-20 10:33:08.339 [camel-reloader-camel-1] FileSystemRoute - Begin setting up camel routes based upon collected domains.
